@@ -19,6 +19,8 @@
     --accent-ink: #ffffff;
     --accent-soft: #e3efe9;
     --chip: #f0ede6;
+    --ok: #2e8b62;
+    --warn: #c07a12;
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
@@ -32,6 +34,8 @@
       --accent-ink: #0d1a14;
       --accent-soft: #1d3329;
       --chip: #232b27;
+      --ok: #5cc49a;
+      --warn: #e0a449;
       color-scheme: dark;
     }
   }
@@ -56,6 +60,17 @@
   .lede { color: var(--muted); margin: 0; max-width: 60ch; }
   .stamp { margin-top: 14px; font-size: 13px; color: var(--muted); }
   .stamp strong { color: var(--ink); font-weight: 600; }
+  .sources { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .sources li {
+    font-size: 12.5px; color: var(--muted);
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 999px; padding: 4px 11px;
+    display: flex; align-items: center; gap: 7px;
+  }
+  .sources b { color: var(--ink); font-weight: 600; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--ok); flex: none; }
+  .sources li.stale { border-color: var(--warn); color: var(--ink); }
+  .sources li.stale .dot { background: var(--warn); }
 
   .controls {
     position: sticky; top: 0; z-index: 5;
@@ -142,6 +157,7 @@
     <h1>Impact Investing Jobs</h1>
     <p class="lede">Open roles in impact investing, gathered from across the web into one list. The list is rebuilt from scratch every Tuesday at 7pm CT, so filled roles drop off.</p>
     <p class="stamp" id="stamp">Loading…</p>
+    <ul class="sources" id="sources" aria-label="Last update for each source"></ul>
   </header>
 
   <div class="controls">
@@ -206,10 +222,16 @@ fetch("jobs.json", { cache: "no-store" })
   .then(r => r.json())
   .then(data => {
     jobs = data.jobs;
-    const updated = new Date(data.updated).toLocaleString("en-US", {
-      timeZone: "America/Chicago", weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit"
-    });
-    $("stamp").innerHTML = `<strong>${jobs.length} jobs</strong> from ${data.sources.map(esc).join(", ")} · Last updated ${esc(updated)} CT`;
+    const fmtCT = (iso, opts) => new Date(iso).toLocaleString("en-US", { timeZone: "America/Chicago", ...opts });
+    const names = Object.keys(data.sources);
+    $("stamp").innerHTML = `<strong>${jobs.length} jobs</strong> from ${names.length} source${names.length === 1 ? "" : "s"} · Site last updated ${esc(fmtCT(data.updated, { weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" }))} CT`;
+    $("sources").innerHTML = names.map(name => {
+      const s = data.sources[name];
+      const when = s.last_success ? fmtCT(s.last_success, { month: "short", day: "numeric", year: "numeric" }) : "never";
+      return s.ok
+        ? `<li><span class="dot"></span><b>${esc(name)}</b> ${s.count} jobs · updated ${esc(when)}</li>`
+        : `<li class="stale" title="This source couldn't be reached on the latest update, so its listings are from the last successful update."><span class="dot"></span><b>${esc(name)}</b> didn't update this week · showing ${s.count} jobs from ${esc(when)}</li>`;
+    }).join("");
     fillSelect($("source"), jobs.map(j => j.source));
     fillSelect($("type"), jobs.map(j => j.type));
     ["q", "source", "type", "sort", "remote"].forEach(id => $(id).addEventListener("input", render));

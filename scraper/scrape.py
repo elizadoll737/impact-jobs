@@ -65,28 +65,33 @@ SOURCES = {
 
 
 def main():
-    previous = json.loads(OUTPUT.read_text())["jobs"] if OUTPUT.exists() else []
-    jobs, failed = [], []
+    previous = json.loads(OUTPUT.read_text()) if OUTPUT.exists() else {}
+    prev_sources = previous.get("sources")
+    prev_sources = prev_sources if isinstance(prev_sources, dict) else {}
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+    jobs, sources = [], {}
     for name, fetch in SOURCES.items():
         try:
             found = fetch()
             print(f"{name}: {len(found)} jobs")
-            jobs.extend(found)
+            sources[name] = {"last_success": now, "ok": True}
         except Exception as exc:
             # Keep this source's jobs from the last run rather than dropping them.
             print(f"{name}: FAILED ({exc}); keeping previous listings", file=sys.stderr)
-            failed.append(name)
-            jobs.extend(j for j in previous if j["source"] == name)
+            found = [j for j in previous.get("jobs", []) if j["source"] == name]
+            sources[name] = {"last_success": prev_sources.get(name, {}).get("last_success"), "ok": False}
+        sources[name]["count"] = len(found)
+        jobs.extend(found)
 
-    if len(failed) == len(SOURCES):
+    if not any(s["ok"] for s in sources.values()):
         sys.exit("Every source failed; leaving existing jobs.json untouched.")
 
     jobs.sort(key=lambda j: j["posted"], reverse=True)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps({
-        "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "sources": list(SOURCES),
-        "failed_sources": failed,
+        "updated": now,
+        "sources": sources,
         "jobs": jobs,
     }, indent=1, ensure_ascii=False))
     print(f"Wrote {len(jobs)} jobs to {OUTPUT}")
