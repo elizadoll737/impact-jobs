@@ -65,6 +65,7 @@ SOURCES = {
 
 
 def main():
+    previous = json.loads(OUTPUT.read_text())["jobs"] if OUTPUT.exists() else []
     jobs, failed = [], []
     for name, fetch in SOURCES.items():
         try:
@@ -72,12 +73,13 @@ def main():
             print(f"{name}: {len(found)} jobs")
             jobs.extend(found)
         except Exception as exc:
-            print(f"{name}: FAILED ({exc})", file=sys.stderr)
+            # Keep this source's jobs from the last run rather than dropping them.
+            print(f"{name}: FAILED ({exc}); keeping previous listings", file=sys.stderr)
             failed.append(name)
+            jobs.extend(j for j in previous if j["source"] == name)
 
-    # If every source failed, keep last week's list rather than publishing an empty site.
-    if not jobs:
-        sys.exit("No jobs collected; leaving existing jobs.json untouched.")
+    if len(failed) == len(SOURCES):
+        sys.exit("Every source failed; leaving existing jobs.json untouched.")
 
     jobs.sort(key=lambda j: j["posted"], reverse=True)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)

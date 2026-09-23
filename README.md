@@ -3,8 +3,9 @@
 Impact investing jobs from multiple sources, collected into one site.
 
 - **Site:** https://elizadoll737.github.io/impact-jobs/
-- **Updates:** every Tuesday at 7pm CT (`.github/workflows/update-jobs.yml`). Each run rebuilds the full list, so jobs that have been filled or taken down drop off.
-- **Update now:** Actions tab → "Update jobs" → "Run workflow".
+- **Updates:** every Tuesday at 7pm CT, run from this Mac by launchd (`~/Library/LaunchAgents/com.elizadoll737.impactjobs.plist` → `update.sh`). Each run rebuilds the full list, so jobs that have been filled or taken down drop off. It runs from the Mac rather than GitHub Actions because ImpactAlpha's Cloudflare blocks cloud-server requests. If the Mac is asleep at 7pm it runs on wake; if it's shut down, that week is skipped.
+- **Update now:** `./update.sh` (log in `logs/update.log`).
+- **Stop weekly updates:** `launchctl bootout gui/$(id -u)/com.elizadoll737.impactjobs` and delete the plist.
 
 ## Sources
 
