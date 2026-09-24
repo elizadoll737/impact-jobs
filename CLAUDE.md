@@ -10,3 +10,5 @@ Owner is a non-developer (Kellogg student); explain steps plainly and do the tec
 - ImpactAlpha job descriptions are subscriber content: show summary fields only and link out ("View on <source>"). Don't republish full descriptions.
 - A failed source keeps its previous listings; `sources[name].last_success` records when it last updated and the page shows an orange "didn't update this week" pill.
 - Pages serves HTML with `max-age=600`. If you change the shape of `jobs.json`, write it under a new filename (and point `index.html` at it) so a browser's cached old page doesn't break on the new data.
+- Broad boards (CDFI Job Bank, Impactpool) are filtered by `is_investing_role()` in scrape.py. The owner wants jobs in line with ImpactAlpha's mix (impact funds, community finance, climate finance, DFIs, foundation/bank impact roles), so tune those regexes rather than letting consumer-banking or program roles through.
+- The Impactpool fetch takes about 2 minutes (paced requests).

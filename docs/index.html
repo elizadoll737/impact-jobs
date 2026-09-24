@@ -148,6 +148,20 @@
   }
   .btn:hover { filter: brightness(1.08); }
   .empty { grid-column: 1 / -1; text-align: center; color: var(--muted); padding: 48px 0; }
+  .more {
+    margin-top: 18px;
+    padding: 12px 16px;
+    border: 1px dashed var(--line);
+    border-radius: 12px;
+    font-size: 13.5px;
+    color: var(--muted);
+    max-width: 760px;
+  }
+  .more h2 { font-size: 13.5px; font-weight: 600; color: var(--ink); margin: 0 0 4px; }
+  .more ul { margin: 0; padding-left: 18px; }
+  .more li { margin-top: 3px; }
+  .more a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  .more a:hover { text-decoration: underline; }
   footer { border-top: 1px solid var(--line); padding-block: 24px 40px; font-size: 13px; color: var(--muted); }
 </style>
 </head>
@@ -158,6 +172,14 @@
     <p class="lede">Open roles in impact investing, gathered from across the web into one list. The list is rebuilt from scratch every Tuesday at 7pm CT, so filled roles drop off.</p>
     <p class="stamp" id="stamp">Loading…</p>
     <ul class="sources" id="sources" aria-label="Last update for each source"></ul>
+    <aside class="more" aria-labelledby="more-title">
+      <h2 id="more-title">More boards to check</h2>
+      These boards are a great fit but can't be pulled in automatically, so check them directly:
+      <ul>
+        <li><a href="https://jobs.thegiin.org/" target="_blank" rel="noopener">GIIN Career Center ↗</a>: roles at Global Impact Investing Network members worldwide</li>
+        <li><a href="https://missioninvestors.org/jobs" target="_blank" rel="noopener">Mission Investors Exchange ↗</a>: foundation and philanthropy impact investing roles</li>
+      </ul>
+    </aside>
   </header>
 
   <div class="controls">
@@ -211,8 +233,8 @@ function render() {
         ${j.salary ? `<span class="chip">${esc(j.salary)}</span>` : ""}
       </div>
       <div class="foot">
-        <span class="posted">Posted ${fmtDate(j.posted)}</span>
-        <a class="btn" href="${esc(j.url)}" target="_blank" rel="noopener">View on ${esc(j.source)}</a>
+        <span class="posted">${j.date_is_added ? "Added" : "Posted"} ${fmtDate(j.posted)}</span>
+        <a class="btn" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.link_label || `View on ${j.source}`)}</a>
       </div>
     </article>`).join("")
     : `<p class="empty">No jobs match those filters.</p>`;

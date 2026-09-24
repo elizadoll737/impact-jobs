@@ -12,6 +12,11 @@ Impact investing jobs from multiple sources, collected into one site.
 | Source | How it's collected |
 |---|---|
 | ImpactAlpha | Public job-listings feed. Summary fields only; each job links back to ImpactAlpha. |
+| Impact Capital Managers | Member-careers page (Squarespace). Fund name inferred from the application link (`ICM_FUNDS`); unknown ones show "ICM member fund". |
+| CDFI Job Bank (OFN) | Acuspire job API behind the OFN widget. Filtered to investing/lending titles and postings from the last 120 days. |
+| Impactpool | Search pages for a few queries, filtered to investing titles. No posting dates, so the site shows the date first added. |
+
+**Not included:** Terra.do (listings mixed with job-spam aggregators). GIIN Career Center and Mission Investors Exchange block automated requests, so the site links to them under "More boards to check".
 
 To add a source, add a `fetch_<name>()` function in `scraper/scrape.py` and register it in `SOURCES`.
 
