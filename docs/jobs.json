@@ -1,23 +1,23 @@
 {
- "updated": "2026-09-24T00:16:33+00:00",
+ "updated": "2026-09-24T00:23:48+00:00",
  "sources": {
   "ImpactAlpha": {
-   "last_success": "2026-09-24T00:16:33+00:00",
+   "last_success": "2026-09-24T00:23:48+00:00",
    "ok": true,
    "count": 116
   },
   "Impact Capital Managers": {
-   "last_success": "2026-09-24T00:16:33+00:00",
+   "last_success": "2026-09-24T00:23:48+00:00",
    "ok": true,
    "count": 18
   },
   "CDFI Job Bank": {
-   "last_success": "2026-09-24T00:16:33+00:00",
+   "last_success": "2026-09-24T00:23:48+00:00",
    "ok": true,
    "count": 90
   },
   "Impactpool": {
-   "last_success": "2026-09-24T00:16:33+00:00",
+   "last_success": "2026-09-24T00:23:48+00:00",
    "ok": true,
    "count": 64
   }
@@ -32,7 +32,10 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://impactalpha.com/job/investment-partnerships-advisory-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Managing Director",
@@ -43,7 +46,10 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://impactalpha.com/job/managing-director-7/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Administrative Assistant",
@@ -54,7 +60,10 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://impactalpha.com/job/administrative-assistant/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Strategic Investment Partnerships Lead",
@@ -66,7 +75,11 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236419",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US",
+    "International"
+   ]
   },
   {
    "title": "Investment Manager – Airbel Ventures (Kenya)",
@@ -78,7 +91,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1232952",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Investment Officer - Co-Terminus, Re-Advertisement",
@@ -90,7 +106,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237162",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "(Senior) Investment Officer - Global Energy",
@@ -102,7 +121,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237295",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chargé (e) d’Investissement (San-Pedro)",
@@ -114,7 +136,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236642",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chargé (e) d’Investissement (Bouaké)",
@@ -126,7 +151,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236644",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chargé (e) d’Investissement (Korhogo)",
@@ -138,7 +166,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236640",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chargé (e) d’Investissement (Abidjan)",
@@ -150,7 +181,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236041",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Investment Management Analyst or Associates - Talent Pool",
@@ -162,7 +196,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1222145",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Specialist",
@@ -174,7 +211,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235891",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chargé (e) d’Investissement (Man)",
@@ -186,7 +226,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236643",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Principal, Investments (Tax & Preferred Equity)",
@@ -198,7 +241,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1232535",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Operations Specialist",
@@ -210,7 +256,8 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1194121",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": []
   },
   {
    "title": "Investment Analyst, Infrastructure, Central America",
@@ -222,7 +269,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236846",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Specialist, NPSA10, Accra, Ghana, UNCDF [Open to internal and external applicants]",
@@ -234,7 +284,11 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1234548",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US",
+    "International"
+   ]
   },
   {
    "title": "Investment Analyst, Financial Institutions Group, Mexico, Central America & the Caribbean",
@@ -246,7 +300,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1238147",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Managing Director, Tax Investor Coverage",
@@ -258,7 +315,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1230938",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Principal, Investments (Tax & Preferred Equity)",
@@ -270,7 +330,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1232536",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Manager, Business Development Unit",
@@ -282,7 +345,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1198661",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Principal Investment Officer",
@@ -294,7 +360,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1238008",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Analyst Consultant (Department of Africa Region, Private Sector)",
@@ -306,7 +375,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237451",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Officer - Financial Sponsor Debt Business",
@@ -318,7 +390,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237345",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "National Individual Consultant Specialist DBSA Youth in Biodiversity Investment Facility - Pretoria, South Africa (office based) - 12 months (595794)",
@@ -330,7 +405,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237246",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Investment Associate - Infrastructure and Energy - Andean Region",
@@ -342,7 +420,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236657",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Blended Finance Director",
@@ -354,7 +435,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235916",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "IDB Invest Lead Investment Officer - Mobilization & Asset Sharing",
@@ -366,7 +450,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237533",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Green Finance Consultant",
@@ -378,7 +465,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1216219",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "PEC Consultant - IDB Invest - B2B Marketing & Business Communications",
@@ -390,7 +480,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237143",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Analyst, Special Operations, LAC Region",
@@ -402,7 +495,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237172",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Project Specialist on Investable Nature Project Pipeline (Home Based) [Open to internal and external applicants]",
@@ -414,7 +510,8 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/677367",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": []
   },
   {
    "title": "Principal, Tax Investor Coverage",
@@ -426,7 +523,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1213289",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Business Development and Green Finance Readiness Support Consultant",
@@ -438,7 +538,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237847",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB. Investment Risk Management Intern",
@@ -450,7 +553,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233445",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Internship: Venture Fund Internship (Multiple Interns) - GPD/Office of Innovation, Sweden, 6 months (Part-time) - In person or remote",
@@ -462,7 +568,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236248",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Investment Officer, Financial Sponsor Debt Business",
@@ -474,7 +583,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237346",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Principal, Strategic Institutional Capital",
@@ -486,7 +598,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233111",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Investment Officer - Chemicals and Fertilizer Sector Lead",
@@ -498,7 +613,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236844",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Specialist",
@@ -510,7 +628,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237609",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB. Intern to Support Staff Retirement Plans Investments Operations",
@@ -522,7 +643,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233447",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Portfolio Manager Inclusive Health",
@@ -534,7 +658,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235750",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Officer (Fixed Income-Credit)",
@@ -546,7 +673,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235903",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Advisor",
@@ -558,7 +688,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237824",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "FemTech Portfolio Manager Consultant, Office of Innovation/Innovation Solution, Stockholm, Sweden, 24 months, remote, # 595828",
@@ -570,7 +703,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237738",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest. Undergraduate Internship: Knowledge Management and Case Analysis - Capital Markets",
@@ -582,7 +718,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233236",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "IDB. ESG Capacity Building and Knowledge Intern",
@@ -594,7 +733,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233242",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Manager, Climate Investment Facility",
@@ -606,7 +748,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235095",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Economic Recovery Specialist - Financial Inclusion & Market System Development",
@@ -618,7 +763,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235938",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Portfolio Management Officer - Infra & Energy Sector - Southern Cone Region",
@@ -630,7 +778,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237144",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Treasury Analyst",
@@ -642,7 +793,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236088",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chief, Portfolio Management",
@@ -654,7 +808,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235739",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "IDB Invest - Portfolio Management Consultant - Infra & Energy Sector",
@@ -666,7 +823,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237572",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Deputy Director, Lending and Partnerships",
@@ -678,7 +838,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1225129",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "PEC Consultant - Capital Markets Benchmarking and Market Access",
@@ -690,7 +853,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237681",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "IDB Invest. Data Analyst - Portfolio Management Intern",
@@ -702,7 +868,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1233232",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Assistant Analyst, Portfolio",
@@ -714,7 +883,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237464",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Treasury Payments Officer",
@@ -726,7 +898,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1238235",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Climate Finance Lead",
@@ -738,7 +913,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237851",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Portfolio Manager, NTDs",
@@ -750,7 +928,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235063",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "PEC Consultant - Technical Tourism, Portfolio Management Support",
@@ -762,7 +943,11 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1206975",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US",
+    "International"
+   ]
   },
   {
    "title": "Green Finance Analyst [Open to internal and external applicants]",
@@ -774,7 +959,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1236480",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Climate Finance Specialist (Retainer modality, home based in Lome, Togo)",
@@ -786,7 +974,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237934",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "WBG Pioneer - World Bank Treasury Intern",
@@ -798,7 +989,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1231458",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "WBG Pioneer - World Bank Treasury Intern",
@@ -810,7 +1004,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1225534",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Climate Finance Senior Associate",
@@ -822,7 +1019,10 @@
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237850",
    "source": "Impactpool",
-   "date_is_added": true
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Managing Director",
@@ -833,7 +1033,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/managing-director-6/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Impact Investment Senior Consultant",
@@ -844,7 +1047,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/impact-investment-senior-consultant/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Manager, Loan Underwriting",
@@ -855,7 +1061,8 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/manager-loan-underwriting/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Loan Closing Administrator",
@@ -866,7 +1073,8 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/loan-closing-administrator-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "People Analytics & Rewards Specialist",
@@ -877,7 +1085,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/people-analytics-rewards-specialist/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior People & Culture Partner",
@@ -888,7 +1099,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/senior-people-culture-partner/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Manager of Private Market Impact Investments",
@@ -899,7 +1113,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/manager-of-private-market-impact-investments/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Executive Director",
@@ -910,7 +1127,10 @@
    "type": "Full Time",
    "posted": "2026-09-22",
    "url": "https://impactalpha.com/job/executive-director-9/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Junior Portfolio Manager",
@@ -921,7 +1141,10 @@
    "type": "",
    "posted": "2026-09-20",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4hc4j2",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "SBA Underwriter",
@@ -932,7 +1155,10 @@
    "type": "",
    "posted": "2026-09-20",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/equt8m",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Warehouse Lending Specialist",
@@ -943,7 +1169,10 @@
    "type": "",
    "posted": "2026-09-19",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/278nrr",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Manager Impact, India and Southeast Asia",
@@ -954,7 +1183,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/manager-impact-india-and-southeast-asia/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Sustainability and Climate Risk Specialist",
@@ -965,7 +1197,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/sustainability-and-climate-risk-specialist/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Vice President of Risk",
@@ -976,7 +1211,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/vice-president-of-risk/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Renewable Energy Investment Analyst",
@@ -987,7 +1225,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/renewable-energy-investment-analyst/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate, Value Creation",
@@ -998,7 +1239,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/associate-value-creation/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Associate",
@@ -1009,7 +1253,10 @@
    "type": "Full Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/investment-associate-bangkok/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Executive Director",
@@ -1020,7 +1267,10 @@
    "type": "Part Time",
    "posted": "2026-09-18",
    "url": "https://impactalpha.com/job/executive-director-8/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Service Analyst",
@@ -1031,7 +1281,10 @@
    "type": "",
    "posted": "2026-09-18",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/856utf",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Administrator",
@@ -1042,7 +1295,10 @@
    "type": "",
    "posted": "2026-09-18",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zkd56d",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Member Business Lending Officer",
@@ -1053,7 +1309,10 @@
    "type": "",
    "posted": "2026-09-17",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/rra2hc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Manager, Impact First Investing",
@@ -1064,7 +1323,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/manager-impact-first-investing/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Development Officer",
@@ -1075,7 +1337,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/chief-development-officer-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate, Finance",
@@ -1086,7 +1351,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/associate-finance/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Corporate Sustainability Strategy Analyst",
@@ -1097,7 +1365,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/corporate-sustainability-strategy-analyst/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Development",
@@ -1108,7 +1379,8 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/senior-associate-development/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Senior Analyst, Advisory",
@@ -1119,7 +1391,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/senior-analyst-advisory-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Underwriting",
@@ -1130,7 +1405,8 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/senior-associate-underwriting/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Stewardship Analyst",
@@ -1141,7 +1417,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/stewardship-analyst-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President, Catalytic Capital",
@@ -1152,7 +1431,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/vice-president-catalytic-capital/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Analyst, Infrastructure, Central America",
@@ -1163,7 +1445,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/investment-analyst-infrastructure-central-america/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Project Operations Manager",
@@ -1174,7 +1459,10 @@
    "type": "Full Time",
    "posted": "2026-09-16",
    "url": "https://impactalpha.com/job/project-operations-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President, Africa and Middle East",
@@ -1186,7 +1474,8 @@
    "posted": "2026-09-16",
    "url": "https://vilcap.bamboohr.com/careers/246",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Lending Assistant",
@@ -1197,7 +1486,10 @@
    "type": "",
    "posted": "2026-09-16",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mxkw5f",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Fraud Investigator",
@@ -1208,7 +1500,10 @@
    "type": "",
    "posted": "2026-09-16",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hz4kiw",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Assistant",
@@ -1219,7 +1514,10 @@
    "type": "",
    "posted": "2026-09-16",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/p7uymb",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Business Operations Manager",
@@ -1230,7 +1528,10 @@
    "type": "Full Time",
    "posted": "2026-09-15",
    "url": "https://impactalpha.com/job/business-operations-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Principal – Inclusive Commercial Value Chains",
@@ -1241,7 +1542,8 @@
    "type": "Full Time",
    "posted": "2026-09-15",
    "url": "https://impactalpha.com/job/principal-inclusive-commercial-value-chains/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Sustainability Officer",
@@ -1252,7 +1554,10 @@
    "type": "Full Time",
    "posted": "2026-09-15",
    "url": "https://impactalpha.com/job/sustainability-officer-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Director of Community Capital Investments",
@@ -1263,7 +1568,10 @@
    "type": "",
    "posted": "2026-09-15",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3qerzp",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Real Estate and Community Development Officer",
@@ -1274,7 +1582,10 @@
    "type": "",
    "posted": "2026-09-15",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/69pye5",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Dealer Relations Representative",
@@ -1285,7 +1596,10 @@
    "type": "",
    "posted": "2026-09-15",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/58f32q",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Manager, Debt Sustainable Food – Africa",
@@ -1296,7 +1610,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/investment-manager-debt-sustainable-food-africa/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Environmental Social and Governance Specialist",
@@ -1307,7 +1624,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/environmental-social-and-governance-specialist/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Advisor, Investment Climate and Private Sector Development",
@@ -1318,7 +1638,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/senior-advisor-investment-climate-and-private-sector-development/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Carbon Excellence Country Coordinator – Kinshasa, DRC",
@@ -1329,7 +1652,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/carbon-excellence-country-coordinator-kinshasa-drc/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Associate, Soros Economic Development Fund (SEDF)",
@@ -1340,7 +1666,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/investment-associate-soros-economic-development-fund-sedf/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Malawi Monitoring, Evaluation and Learning Lead",
@@ -1351,7 +1680,10 @@
    "type": "",
    "posted": "2026-09-14",
    "url": "https://impactalpha.com/job/malawi-mel-lead/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -1362,7 +1694,10 @@
    "type": "",
    "posted": "2026-09-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4f7a6g",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -1373,7 +1708,10 @@
    "type": "",
    "posted": "2026-09-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/yi2jrs",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Underwriter",
@@ -1384,7 +1722,10 @@
    "type": "",
    "posted": "2026-09-11",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6x2gs8",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Trust Officer",
@@ -1395,7 +1736,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/trust-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Credit Risk Analyst",
@@ -1406,7 +1750,8 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/credit-risk-analyst/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Portfolio Manager",
@@ -1417,7 +1762,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/portfolio-manager-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director, Portfolio Finance",
@@ -1428,7 +1776,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/director-portfolio-finance/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Structure Finance Portfolio Manager",
@@ -1439,7 +1790,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/structure-finance-portfolio-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Capital Markets Associate",
@@ -1450,7 +1804,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/capital-markets-associate/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Community Capital Investments",
@@ -1461,7 +1818,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/director-of-community-capital-investments/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director, Nature Finance and Investments",
@@ -1472,7 +1832,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/director-nature-finance-and-investments-3/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Clean Energy Finance – VP/Director",
@@ -1483,7 +1846,10 @@
    "type": "Full Time",
    "posted": "2026-09-10",
    "url": "https://impactalpha.com/job/clean-energy-finance-vp-director/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate, Capital Markets",
@@ -1494,7 +1860,10 @@
    "type": "Full Time",
    "posted": "2026-09-09",
    "url": "https://impactalpha.com/job/associate-capital-markets-5/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Sr. Associate, Investments",
@@ -1505,7 +1874,10 @@
    "type": "Full Time",
    "posted": "2026-09-09",
    "url": "https://impactalpha.com/job/sr-associate-investments/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Analyst",
@@ -1516,7 +1888,10 @@
    "type": "Full Time",
    "posted": "2026-09-09",
    "url": "https://impactalpha.com/job/investment-analyst-33/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Associate Director",
@@ -1527,7 +1902,10 @@
    "type": "Full Time",
    "posted": "2026-09-09",
    "url": "https://impactalpha.com/job/investment-associate-director/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Managing Editor",
@@ -1538,7 +1916,10 @@
    "type": "Full Time",
    "posted": "2026-09-09",
    "url": "https://impactalpha.com/job/managing-editor/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Community Capital Investments",
@@ -1549,7 +1930,10 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ptfi9w",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -1560,7 +1944,10 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zjc4da",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Vice President of Capital and Financing",
@@ -1571,7 +1958,10 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4hjbuc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Program Coordinator",
@@ -1582,7 +1972,10 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pg3ft",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -1593,7 +1986,10 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/kqh92i",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Sustainability and ESG Specialist",
@@ -1604,7 +2000,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/sustainability-and-esg-specialist/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Corporate ESG Reporting Manager",
@@ -1615,7 +2014,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/corporate-esg-reporting-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Social Sustainability Advisor",
@@ -1626,7 +2028,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/senior-social-sustainability-advisor/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Manager – Airbel Ventures (Kenya)",
@@ -1637,7 +2042,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/investment-manager-airbel-ventures-kenya/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate, Renewables Origination and Execution",
@@ -1648,7 +2056,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/associate-renewables-origination-and-execution/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate Director, Agriculture Finance",
@@ -1659,7 +2070,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/associate-director-agriculture-finance-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Market Engagement Lead – Community Impact & Investment",
@@ -1670,7 +2084,10 @@
    "type": "Full Time",
    "posted": "2026-09-08",
    "url": "https://impactalpha.com/job/senior-associate-market-engagement-lead-community-impact-investment/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Commercial Lending and Operations Officer",
@@ -1681,7 +2098,10 @@
    "type": "",
    "posted": "2026-09-08",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/n3ka8t",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -1692,7 +2112,10 @@
    "type": "",
    "posted": "2026-09-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ca45cg",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "IDB Invest – Environmental & Social Senior Officer",
@@ -1703,7 +2126,8 @@
    "type": "Full Time",
    "posted": "2026-09-04",
    "url": "https://impactalpha.com/job/idb-invest-environmental-social-senior-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Associate / Senior Officer Investment Management",
@@ -1714,7 +2138,10 @@
    "type": "Full Time",
    "posted": "2026-09-04",
    "url": "https://impactalpha.com/job/associate-senior-officer-investment-management/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Sustainable Finance Associate",
@@ -1725,7 +2152,10 @@
    "type": "Full Time",
    "posted": "2026-09-04",
    "url": "https://impactalpha.com/job/sustainable-finance-associate/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Officer",
@@ -1736,7 +2166,10 @@
    "type": "Full Time",
    "posted": "2026-09-04",
    "url": "https://impactalpha.com/job/investment-officer-14/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Finance Review Lead (Consultant)",
@@ -1747,7 +2180,10 @@
    "type": "Temporary",
    "posted": "2026-09-04",
    "url": "https://impactalpha.com/job/finance-review-lead-consultant/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investment Assistant",
@@ -1758,7 +2194,10 @@
    "type": "",
    "posted": "2026-09-03",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/m9bscc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President of Commercial Lending",
@@ -1769,7 +2208,10 @@
    "type": "",
    "posted": "2026-09-03",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/swzq8y",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Operations",
@@ -1780,7 +2222,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/director-of-operations-4/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Consultant",
@@ -1791,7 +2236,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/consultant-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Vice President, U.S. Governance, Global Philanthropy",
@@ -1802,7 +2250,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/vice-president-u-s-governance-global-philanthropy/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate, Sub-Saharan Africa, Strategic Investment Fund",
@@ -1813,7 +2264,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/associate-sub-saharan-africa-strategic-investment-fund/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate, South Asia, Strategic Investment Fund",
@@ -1824,7 +2278,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/associate-south-asia-strategic-investment-fund/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Advisor, AI Global Policy & Advocacy",
@@ -1835,7 +2292,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/advisor-ai-global-policy-advocacy/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Impact Investing Vice President",
@@ -1846,7 +2306,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/impact-investing-vice-president-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Client Manager",
@@ -1857,7 +2320,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/senior-client-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate, Farmhand Ventures",
@@ -1868,7 +2334,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/associate-farmhand-ventures/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Director, Program Innovation",
@@ -1879,7 +2348,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/senior-director-program-innovation/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director, School Lending and Underwriting",
@@ -1890,7 +2362,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://impactalpha.com/job/director-school-lending-and-underwriting/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate Underwriting",
@@ -1901,7 +2376,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hazm45",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Fund Manager",
@@ -1912,7 +2390,10 @@
    "type": "",
    "posted": "2026-09-01",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4bjq7r",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Impact Manager (interim)",
@@ -1923,7 +2404,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/impact-manager-interim/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Investment Product Manager (Clean Energy Investments)",
@@ -1934,7 +2418,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/senior-investment-product-manager-clean-energy-investments/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Impact Operations Lead",
@@ -1945,7 +2432,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/impact-operations-lead-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Intern (f/m/d) Asset Management – Renewable Energy",
@@ -1956,7 +2446,10 @@
    "type": "Internship",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/intern-f-m-d-asset-management-renewable-energy/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Director, Climate and Environment",
@@ -1967,7 +2460,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/director-climate-and-environment/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate Director – Investment Development",
@@ -1978,7 +2474,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/associate-director-investment-development/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Nature and Social Risk Vice President",
@@ -1989,7 +2488,10 @@
    "type": "Full Time",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/nature-and-social-risk-vice-president/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investor, Early Stage Team",
@@ -2000,7 +2502,10 @@
    "type": "",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/investor-early-stage-team/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Climate Portfolio Manager",
@@ -2011,7 +2516,8 @@
    "type": "",
    "posted": "2026-08-31",
    "url": "https://impactalpha.com/job/climate-portfolio-manager/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Portfolio Manager",
@@ -2022,7 +2528,10 @@
    "type": "",
    "posted": "2026-08-31",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e77n43",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -2033,7 +2542,10 @@
    "type": "",
    "posted": "2026-08-29",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mx5itk",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Pathways to Capital",
@@ -2044,7 +2556,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/senior-associate-pathways-to-capital-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director, Pathways to Capital",
@@ -2055,7 +2570,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/director-pathways-to-capital/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Executive Director, Senior Project Finance Specialist",
@@ -2066,7 +2584,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/executive-director-senior-project-finance-specialist/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Director, Fund Management and Client Services",
@@ -2077,7 +2598,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/senior-director-fund-management-and-client-services/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Associate, Energy Demand – Research & Innovation",
@@ -2088,7 +2612,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/associate-energy-demand-research-innovation/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Incentives",
@@ -2099,7 +2626,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/senior-associate-incentives/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director, Nature Finance and Investments",
@@ -2110,7 +2640,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/director-nature-finance-and-investments-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President, Structured Finance",
@@ -2121,7 +2654,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/vice-president-structured-finance/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Asset Manager – National Field Operations",
@@ -2132,7 +2668,10 @@
    "type": "Full Time",
    "posted": "2026-08-28",
    "url": "https://impactalpha.com/job/senior-asset-manager-national-field-operations/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer Certification and Quality Assurance Specialist",
@@ -2143,7 +2682,10 @@
    "type": "",
    "posted": "2026-08-28",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fdr77p",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Director",
@@ -2155,7 +2697,8 @@
    "posted": "2026-08-27",
    "url": "https://www.linkedin.com/jobs/view/4457796373/",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Loan Officer",
@@ -2166,7 +2709,10 @@
    "type": "",
    "posted": "2026-08-27",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vvcvh6",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief External Affairs Officer",
@@ -2177,7 +2723,10 @@
    "type": "Full Time",
    "posted": "2026-08-26",
    "url": "https://impactalpha.com/job/chief-external-affairs-officer-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Finance",
@@ -2188,7 +2737,8 @@
    "type": "",
    "posted": "2026-08-26",
    "url": "https://impactalpha.com/job/director-of-finance-7/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": []
   },
   {
    "title": "Executive Director",
@@ -2199,7 +2749,10 @@
    "type": "",
    "posted": "2026-08-26",
    "url": "https://impactalpha.com/job/executive-director-7/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Head of Communications",
@@ -2210,7 +2763,10 @@
    "type": "",
    "posted": "2026-08-26",
    "url": "https://impactalpha.com/job/head-of-communications-3/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Development and Communications Officer",
@@ -2221,7 +2777,10 @@
    "type": "",
    "posted": "2026-08-26",
    "url": "https://impactalpha.com/job/chief-development-and-communications-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Officer",
@@ -2232,7 +2791,10 @@
    "type": "Full Time",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/investment-officer-13/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Expansion Lead",
@@ -2243,7 +2805,10 @@
    "type": "Full Time",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/expansion-lead/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Investments Director",
@@ -2254,7 +2819,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/investments-director-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Impact-First Investments Officer",
@@ -2265,7 +2833,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/impact-first-investments-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President, ESG Investment Management",
@@ -2276,7 +2847,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/vice-president-esg-investment-management/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Associate, Pathways to Capital",
@@ -2287,7 +2861,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/senior-associate-pathways-to-capital/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Equity Research Analyst, Impact Investing – Vice President",
@@ -2298,7 +2875,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/equity-research-analyst-impact-investing-vice-president-3/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Manager, Durable Conservation and Finance",
@@ -2309,7 +2889,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/manager-durable-conservation-and-finance/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Programs",
@@ -2320,7 +2903,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/director-of-programs-4/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Partnerships Lead",
@@ -2331,7 +2917,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/partnerships-lead/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "ESG Stewardship Analyst",
@@ -2342,7 +2931,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/esg-stewardship-analyst-2/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Community Impact Officer",
@@ -2353,7 +2945,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://impactalpha.com/job/community-impact-officer/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Underwriter",
@@ -2364,7 +2959,10 @@
    "type": "",
    "posted": "2026-08-25",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fbqq6b",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Analyst, Decarbonization Partners",
@@ -2375,7 +2973,10 @@
    "type": "Full Time",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/investment-analyst-decarbonization-partners/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Senior Analyst – Impact & ESG analysis",
@@ -2386,7 +2987,10 @@
    "type": "Full Time",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/senior-analyst-impact-esg-analysis/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate Vice President, Program & Business Development",
@@ -2397,7 +3001,10 @@
    "type": "Full Time",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/associate-vice-president-program-business-development/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "AVP (12 months contract), Sustainability (ESG Investment Management)",
@@ -2408,7 +3015,10 @@
    "type": "Temporary",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/avp-12-months-contract-sustainability-esg-investment-management/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Associate, Investments and Portfolio",
@@ -2419,7 +3029,10 @@
    "type": "Full Time",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/associate-investments-and-portfolio/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Head of Climate Resilience Center, APAC",
@@ -2430,7 +3043,10 @@
    "type": "Full Time",
    "posted": "2026-08-24",
    "url": "https://impactalpha.com/job/head-of-climate-resilience-center-apac/",
-   "source": "ImpactAlpha"
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
   },
   {
    "title": "Chief Credit Officer",
@@ -2441,7 +3057,10 @@
    "type": "",
    "posted": "2026-08-24",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/v96muu",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Lending Assistant",
@@ -2452,7 +3071,10 @@
    "type": "",
    "posted": "2026-08-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/39qavf",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Lending Operations",
@@ -2463,7 +3085,10 @@
    "type": "",
    "posted": "2026-08-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/79ixh7",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Lending Coordinator",
@@ -2474,7 +3099,10 @@
    "type": "",
    "posted": "2026-08-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ui9k4b",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -2485,7 +3113,10 @@
    "type": "",
    "posted": "2026-08-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/56tepf",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -2496,7 +3127,10 @@
    "type": "",
    "posted": "2026-08-21",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ntg9uk",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Lending Officer",
@@ -2507,7 +3141,10 @@
    "type": "",
    "posted": "2026-08-21",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xyf7fn",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Treasury Analyst",
@@ -2518,7 +3155,10 @@
    "type": "",
    "posted": "2026-08-20",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fbmc3v",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Credit Underwriter",
@@ -2529,7 +3169,10 @@
    "type": "",
    "posted": "2026-08-19",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pi2et",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Underwriter",
@@ -2540,7 +3183,10 @@
    "type": "",
    "posted": "2026-08-17",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vi3jj2",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Lending Analytics",
@@ -2551,7 +3197,10 @@
    "type": "",
    "posted": "2026-08-13",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/m6c4gx",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Asset Management",
@@ -2562,7 +3211,10 @@
    "type": "",
    "posted": "2026-08-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/gq8nf5",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Associate",
@@ -2573,7 +3225,10 @@
    "type": "",
    "posted": "2026-08-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/q563zi",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Lending Associate",
@@ -2584,7 +3239,10 @@
    "type": "",
    "posted": "2026-08-11",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/bursv3",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Asset Management",
@@ -2595,7 +3253,10 @@
    "type": "",
    "posted": "2026-08-10",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7ijyye",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Treasury and Finance",
@@ -2606,7 +3267,10 @@
    "type": "",
    "posted": "2026-08-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e4y46v",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -2617,7 +3281,10 @@
    "type": "",
    "posted": "2026-08-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2xjt28",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Talent Acquisition Partner",
@@ -2628,7 +3295,10 @@
    "type": "",
    "posted": "2026-08-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8fh8kn",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Investment Officer",
@@ -2639,7 +3309,10 @@
    "type": "",
    "posted": "2026-08-05",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2vgaw3",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Portfolio Manager",
@@ -2650,7 +3323,10 @@
    "type": "",
    "posted": "2026-08-05",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/surd9m",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Visiting Associate (EMEA Team)",
@@ -2662,7 +3338,8 @@
    "posted": "2026-08-04",
    "url": "https://apply.workable.com/quona-capital-llc/j/C29CC6A9B9",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Chief Lending Officer",
@@ -2673,7 +3350,10 @@
    "type": "",
    "posted": "2026-08-04",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6hn57y",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Underwriter",
@@ -2684,7 +3364,10 @@
    "type": "",
    "posted": "2026-08-04",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/b368wx",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Executive Assistant",
@@ -2696,7 +3379,8 @@
    "posted": "2026-08-03",
    "url": "https://airtable.com/appkZ9Xw7RzIYBgcZ/pagJP9SdelRbVW90N/form",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Controller",
@@ -2708,7 +3392,8 @@
    "posted": "2026-07-29",
    "url": "https://www.linkedin.com/jobs/view/controller-at-apis-heritage-capital-partners-4445313433/",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Chief Credit Officer",
@@ -2719,7 +3404,10 @@
    "type": "",
    "posted": "2026-07-29",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/b675vx",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investor Relations Manager",
@@ -2730,7 +3418,10 @@
    "type": "",
    "posted": "2026-07-29",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hn4pqy",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Credit Officer",
@@ -2741,7 +3432,10 @@
    "type": "",
    "posted": "2026-07-28",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/jkut5p",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Credit Officer",
@@ -2752,7 +3446,10 @@
    "type": "",
    "posted": "2026-07-27",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/jh78mi",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -2763,7 +3460,10 @@
    "type": "",
    "posted": "2026-07-27",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/c7s4qh",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Client Solutions Senior Associate",
@@ -2775,7 +3475,8 @@
    "posted": "2026-07-24",
    "url": "https://cim-llc.com/opportunity/us_client_associate",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Senior Associate, Investments",
@@ -2787,7 +3488,8 @@
    "posted": "2026-07-24",
    "url": "https://alignedclimatecapital.com/careers/",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Senior Analyst",
@@ -2799,7 +3501,8 @@
    "posted": "2026-07-24",
    "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e2b605a5-e16b-4971-a52a-2f8340549b55",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Associate",
@@ -2811,7 +3514,8 @@
    "posted": "2026-07-24",
    "url": "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:42291664-c26b-4454-addb-2877f67990eb",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Investor Relations Associate",
@@ -2823,7 +3527,8 @@
    "posted": "2026-07-24",
    "url": "https://www.rosecompanies.com/careers/investor-relations-assocate-new-york-city-office/",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Analyst, Acquisitions",
@@ -2835,7 +3540,8 @@
    "posted": "2026-07-24",
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/enterprisecommunity/EnterpriseCareers/job/Analyst--Acquisitions_REQ3867",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Investment Analyst/Associate – The Fund for Nature",
@@ -2847,7 +3553,8 @@
    "posted": "2026-07-24",
    "url": "https://crossboundary.applytojob.com/apply/yhDhZNJ4ho/investment-analyst-associate-the-fund-for-nature",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Climate Impact, Intern | Fall Research Assistant",
@@ -2859,7 +3566,8 @@
    "posted": "2026-07-24",
    "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/7789335003",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Associate Vice President – Investments",
@@ -2871,7 +3579,8 @@
    "posted": "2026-07-24",
    "url": "https://7272ab48-82a6-43f5-9141-fdf73995ff6d.filesusr.com/ugd/8fd3c3_bdd30222cb054de3aece0fb5860d3500.pdf",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Asset Management Associate",
@@ -2883,7 +3592,8 @@
    "posted": "2026-07-24",
    "url": "https://7272ab48-82a6-43f5-9141-fdf73995ff6d.filesusr.com/ugd/8fd3c3_2050e69ac73a4adc80c18efd478607a3.pdf",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Finance and Operations Manager",
@@ -2895,7 +3605,8 @@
    "posted": "2026-07-24",
    "url": "https://7272ab48-82a6-43f5-9141-fdf73995ff6d.filesusr.com/ugd/8fd3c3_c79b86450de94766af0b6ffd165b514c.pdf",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Chief Credit Officer",
@@ -2906,7 +3617,10 @@
    "type": "",
    "posted": "2026-07-22",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k3cq8p",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Lending Support Specialist",
@@ -2917,7 +3631,10 @@
    "type": "",
    "posted": "2026-07-22",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ber6bq",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Investment",
@@ -2928,7 +3645,10 @@
    "type": "",
    "posted": "2026-07-21",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vt8eyc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Investment",
@@ -2939,7 +3659,10 @@
    "type": "",
    "posted": "2026-07-21",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/79hitc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Investor Relations Officer",
@@ -2950,7 +3673,10 @@
    "type": "",
    "posted": "2026-07-20",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/tuzc3j",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Credit Officer",
@@ -2961,18 +3687,24 @@
    "type": "",
    "posted": "2026-07-20",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/w8n9c8",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Director, Loan Origination",
    "organization": "Opportunity Finance Network",
-   "location": "Ne",
+   "location": "NE",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-07-19",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/wxsa5k",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -2983,7 +3715,10 @@
    "type": "",
    "posted": "2026-07-19",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/nz837g",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Asset Manager",
@@ -2994,7 +3729,10 @@
    "type": "",
    "posted": "2026-07-14",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ja6wp2",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Officer",
@@ -3005,7 +3743,10 @@
    "type": "",
    "posted": "2026-07-13",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/aqx6sr",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Lender",
@@ -3016,7 +3757,10 @@
    "type": "",
    "posted": "2026-07-13",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/45x6xc",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -3027,7 +3771,10 @@
    "type": "",
    "posted": "2026-07-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/pmu683",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -3038,7 +3785,10 @@
    "type": "",
    "posted": "2026-07-10",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4u98bv",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Community Lender",
@@ -3049,7 +3799,10 @@
    "type": "",
    "posted": "2026-07-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e28iku",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -3060,7 +3813,10 @@
    "type": "",
    "posted": "2026-07-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/99icvd",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -3071,7 +3827,10 @@
    "type": "",
    "posted": "2026-07-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/gpsg27",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Commercial Loan Officer",
@@ -3082,7 +3841,10 @@
    "type": "",
    "posted": "2026-07-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/884h6e",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President of Commercial Underwriting",
@@ -3093,7 +3855,10 @@
    "type": "",
    "posted": "2026-07-07",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/h8xj95",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Lending and Compliance Associate",
@@ -3104,7 +3869,10 @@
    "type": "",
    "posted": "2026-07-01",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/h6adkr",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -3115,7 +3883,10 @@
    "type": "",
    "posted": "2026-06-30",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/afzn73",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Asset Management",
@@ -3126,7 +3897,10 @@
    "type": "",
    "posted": "2026-06-28",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/36uidn",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Officer",
@@ -3137,7 +3911,10 @@
    "type": "",
    "posted": "2026-06-24",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7ajnap",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Director of Investments",
@@ -3148,7 +3925,10 @@
    "type": "",
    "posted": "2026-06-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ziz43w",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Vice President, Finance and Investor Reporting",
@@ -3160,7 +3940,8 @@
    "posted": "2026-06-17",
    "url": "https://www.linkedin.com/jobs/view/4414241574/",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Impact & ESG Analyst",
@@ -3172,7 +3953,8 @@
    "posted": "2026-06-17",
    "url": "https://cim-llc.com/opportunity/impact_esg_analyst",
    "source": "Impact Capital Managers",
-   "link_label": "View job posting"
+   "link_label": "View job posting",
+   "regions": []
   },
   {
    "title": "Lending Specialist",
@@ -3183,7 +3965,10 @@
    "type": "",
    "posted": "2026-06-14",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8xg5jb",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Director of Lending",
@@ -3194,7 +3979,10 @@
    "type": "",
    "posted": "2026-06-14",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3dm5ns",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Lending Officer",
@@ -3205,18 +3993,24 @@
    "type": "",
    "posted": "2026-06-14",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/dgfbv7",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Senior Vice President of Investor Relations",
    "organization": "Opportunity Finance Network",
-   "location": "Ar",
+   "location": "AR",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-06-10",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vm8d8b",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Portfolio Manager",
@@ -3227,7 +4021,10 @@
    "type": "",
    "posted": "2026-06-10",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vgg7px",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Loan Portfolio Manager",
@@ -3238,7 +4035,10 @@
    "type": "",
    "posted": "2026-06-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/crwfz7",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Underwriting Director",
@@ -3249,7 +4049,10 @@
    "type": "",
    "posted": "2026-06-03",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5fq6bv",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Investment Officer",
@@ -3260,7 +4063,10 @@
    "type": "",
    "posted": "2026-05-31",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/644zft",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   },
   {
    "title": "Chief Credit and Lending Officer",
@@ -3271,7 +4077,10 @@
    "type": "",
    "posted": "2026-05-31",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ew8m4d",
-   "source": "CDFI Job Bank"
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
   }
  ]
 }

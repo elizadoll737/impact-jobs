@@ -44,6 +44,47 @@ def is_investing_role(title):
     return bool(INVESTING_TITLE.search(title)) and not EXCLUDED_TITLE.search(title)
 
 
+US_STATE_CODES = (
+    "AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE "
+    "NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY PR"
+).split()
+US_PATTERNS = [
+    re.compile(r"\b(United States|USA|U\.S\.A?\.?|US|US-based)(?![a-z])"),
+    re.compile(r",\s*(" + "|".join(US_STATE_CODES) + r")\b"),  # case-sensitive: "Boston, MA"
+    re.compile(
+        r"\b(Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|"
+        r"Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|"
+        r"Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|"
+        r"New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|"
+        r"Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|"
+        r"Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming|"
+        r"Boston|Seattle|Denver|Miami|Chicago|San Francisco|Los Angeles|"
+        r"(Pacific|Mountain|Central|Eastern) time)\b",
+        re.I,
+    ),
+]
+# Places that would otherwise match a US pattern ("Jakarta, ID" is Indonesia, not Idaho).
+NOT_US = re.compile(r"Jakarta|Indonesia|Georgetown|Tbilisi", re.I)
+NO_PLACE = re.compile(
+    r"^(remote|hybrid|multiple locations?|not specified|home based.*|global|anywhere|various|tbd|n/?a)?$",
+    re.I,
+)
+
+
+def regions_for(location):
+    """Return ["US"], ["International"], both (multi-country listings), or [] if unknown."""
+    found = set()
+    for part in re.split(r"[·;|]", location):
+        part = part.strip()
+        if NO_PLACE.match(part):
+            continue
+        if not NOT_US.search(part) and any(p.search(part) for p in US_PATTERNS):
+            found.add("US")
+        else:
+            found.add("International")
+    return sorted(found, key=["US", "International"].index)
+
+
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
@@ -157,13 +198,15 @@ def fetch_cdfi_job_bank():
             jobs.append({
                 "title": title,
                 "organization": clean(item["company"]),
-                "location": ", ".join(p for p in (item.get("city"), item.get("state")) if p),
+                "location": ", ".join(
+                    p for p in (item.get("city"), (item.get("state") or "").upper()) if p),
                 "remote": item.get("remote") == "1",
                 "salary": salary,
                 "type": "",
                 "posted": (item.get("created_at") or "")[:10],
                 "url": f"https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/{item['email_code']}",
                 "source": "CDFI Job Bank",
+                **({"regions": ["US"]} if item.get("country") == "US" else {}),
             })
         if data.get("first_result", 0) + len(data.get("jobs") or []) > data.get("total_results", 0):
             return jobs
@@ -247,6 +290,8 @@ def main():
         if not job["posted"]:
             job["posted"] = first_seen.get(job["url"]) or today
             job["date_is_added"] = True
+        if "regions" not in job:
+            job["regions"] = regions_for(job["location"])
 
     jobs.sort(key=lambda j: j["posted"], reverse=True)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
