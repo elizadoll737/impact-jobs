@@ -1,28 +1,624 @@
 {
- "updated": "2026-09-24T00:23:48+00:00",
+ "updated": "2026-09-30T00:00:06+00:00",
  "sources": {
   "ImpactAlpha": {
-   "last_success": "2026-09-24T00:23:48+00:00",
+   "last_success": "2026-09-30T00:00:06+00:00",
    "ok": true,
-   "count": 116
+   "count": 98
   },
   "Impact Capital Managers": {
-   "last_success": "2026-09-24T00:23:48+00:00",
+   "last_success": "2026-09-30T00:00:06+00:00",
    "ok": true,
    "count": 18
   },
   "CDFI Job Bank": {
-   "last_success": "2026-09-24T00:23:48+00:00",
+   "last_success": "2026-09-30T00:00:06+00:00",
    "ok": true,
-   "count": 90
+   "count": 95
   },
   "Impactpool": {
-   "last_success": "2026-09-24T00:23:48+00:00",
+   "last_success": "2026-09-30T00:00:06+00:00",
    "ok": true,
    "count": 64
   }
  },
  "jobs": [
+  {
+   "title": "Director of Place Based Investments",
+   "organization": "Intermountain Health",
+   "location": "Salt Lake City, Utah",
+   "remote": true,
+   "salary": "$90 - $139",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/director-of-place-based-investments/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director, Private Infrastructure",
+   "organization": "Nuveen, a TIAA company",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$149,000 - $211,000",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/director-private-infrastructure/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "IB Sr Associate / Jr Vice President – Clean Energy & Power",
+   "organization": "Stifel Financial Corp.",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$175,000 - $250,000",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/ib-sr-associate-jr-vice-president-clean-energy-power/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Associate",
+   "organization": "Partnership Fund for New York City",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$95,000",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/investment-associate-26/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Analyst, Project Finance",
+   "organization": "NineDot Energy",
+   "location": "Brooklyn, NY",
+   "remote": false,
+   "salary": "$105,000 - $125,000",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/analyst-project-finance/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Associate/Senior Associate – Deal Origination & Execution",
+   "organization": "Beacon Fund",
+   "location": "Vietnam",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/investment-associate-senior-associate-deal-origination-execution/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Associate / Senior Associate / Investment Manager – Portfolio Management",
+   "organization": "Beacon Fund",
+   "location": "Ho Chi Minh City, Vietnam",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-29",
+   "url": "https://impactalpha.com/job/associate-senior-associate-investment-manager-portfolio-management/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Specialist, NPSA10, Nairobi, Kenya, UNCDF [Open to Tier 1 & 2 applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Nairobi",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/697235",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Specialist, NPSA-11, Nairobi, Kenya, UNCDF [Open to Tier 1 & 2 applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Nairobi",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/698401",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Roster: Engagement of Individual Consultants to Develop Impact Financing and Related Innovative Finance Solutions for Innovative Finance for Children (IF4C), PFP (home-based)",
+   "organization": "UNICEF - United Nations Children’s Fund",
+   "location": "Remote · Rome",
+   "remote": true,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238597",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Analyst, IPSA 9, Apia, Samoa (UNCDF) - [Open to Tier 0, 1 & 2 applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Apia",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/698048",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Specialist, NPSA-11, Suva, Fiji (UNCDF) - [Open to Tier 1 & 2 applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Suva",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238509",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Specialist, NPSA10, Accra, Ghana, UNCDF [Open to internal and external applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Accra",
+   "remote": false,
+   "salary": "",
+   "type": "Internship",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/695454",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer - Financial Institutions and Trade Finance",
+   "organization": "World Bank Group",
+   "location": "Karachi",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238960",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer, Project & Corporate Finance",
+   "organization": "AIIB - Asian Infrastructure Investment Bank",
+   "location": "Beijing",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238248",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "(Senior) Investment Officer – Bond Specialist",
+   "organization": "World Bank Group",
+   "location": "London · Washington D.C. · Vienna",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238957",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "US",
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer",
+   "organization": "ADB - Asian Development Bank",
+   "location": "Suva",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238243",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Principal Investment Officer, FoF",
+   "organization": "World Bank Group",
+   "location": "Washington D.C.",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238335",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
+   "organization": "EBRD - European Bank for Reconstruction and Development",
+   "location": "London",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238390",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer",
+   "organization": "ADB - Asian Development Bank",
+   "location": "Tashkent",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238244",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer",
+   "organization": "ADB - Asian Development Bank",
+   "location": "Jakarta",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238242",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Associate, Project & Corporate Finance",
+   "organization": "AIIB - Asian Infrastructure Investment Bank",
+   "location": "Beijing",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238249",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer",
+   "organization": "ADB - Asian Development Bank",
+   "location": "Ulaanbaatar",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238241",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Project Portfolio Specialist, WCA and LAC, IPSA10, UNCDF [Open to internal and external applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Dakar",
+   "remote": false,
+   "salary": "",
+   "type": "Internship",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1220776",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Project Coordinator & Technical Lead - Financial Inclusion (CST II)",
+   "organization": "WFP - World Food Programme",
+   "location": "Aden",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1239141",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Principal Treasury Officer, Head of Treasury Strategic Planning and Middle Office",
+   "organization": "AIIB - Asian Infrastructure Investment Bank",
+   "location": "Beijing",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238815",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Associate Treasury Officer",
+   "organization": "ADB - Asian Development Bank",
+   "location": "Manila",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238239",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Junior Economist – Capital Markets",
+   "organization": "OECD - Organisation for Economic Co-operation and Development",
+   "location": "Paris",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-29",
+   "url": "https://www.impactpool.org/jobs/1238813",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "(Senior) Manager ESG / Sustainability – M&A Strategy & Due Diligence",
+   "organization": "Deloitte GmbH",
+   "location": "Munich, Berlin, Düsseldorf, Frankfurt, Hamburg, Cologne, Stuttgart",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/senior-manager-esg-sustainability-ma-strategy-due-diligence/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Sector Specialist – European Innovation Council Fund (EIC)",
+   "organization": "European Investment Bank (EIB)",
+   "location": "Luxembourg",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/sector-specialist-european-innovation-council-fund-eic/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Project Manager (Investment Management)",
+   "organization": "Triodos Bank N.V.",
+   "location": "Driebergen-Rijsenburg, NLD",
+   "remote": false,
+   "salary": "€83,537 - €114,863",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/project-manager-investment-management/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Senior Investment Manager AgriFood",
+   "organization": "Invest-NL N.V.",
+   "location": "Amsterdam, Netherlands",
+   "remote": false,
+   "salary": "€6,200 - €9,600",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/senior-investment-manager-agrifood/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Impact & ESG Officer",
+   "organization": "Invest International",
+   "location": "Den Haag, Netherlands",
+   "remote": false,
+   "salary": "€5,443 - €6,463",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/impact-esg-officer/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "ESG Data Analyst",
+   "organization": "Euronext Paris SA",
+   "location": "Lisbon, Portugal",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/esg-data-analyst-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Deputy Managing Director",
+   "organization": "JSIF Jamaica Social Investment Fund",
+   "location": "Kingston, Jamaica",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-09-28",
+   "url": "https://impactalpha.com/job/deputy-managing-director/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Loan Officer",
+   "organization": "Neighbors Federal Credit Union",
+   "location": "Baton Rouge, LA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-26",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/tgdy2y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Lender",
+   "organization": "United Bank Corporation",
+   "location": "Jackson, GA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-26",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7rwk7y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Community Development and Partnership Associate",
+   "organization": "Pursuit",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-25",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4fb9wm",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Associate Director of Lending",
+   "organization": "Pacific Community Ventures",
+   "location": "Oakland, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-25",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/78in3x",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Loan Underwriter",
+   "organization": "Connex Credit Union, Inc.",
+   "location": "North Haven, CT",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-25",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5mr6s6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Asset Manager",
+   "organization": "Local Initiatives Support Corporation",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-24",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2dzkus",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
   {
    "title": "Investment Partnerships & Advisory Officer",
    "organization": "Better Society Capital",
@@ -66,19 +662,17 @@
    ]
   },
   {
-   "title": "Strategic Investment Partnerships Lead",
-   "organization": "Deutsche Welthungerhilfe",
-   "location": "Germany · Ethiopia · United Kingdom · Kenya · Switzerland · United States",
+   "title": "Senior Asset Manager",
+   "organization": "Opportunity Finance Network",
+   "location": "New York, NY",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236419",
-   "source": "Impactpool",
-   "date_is_added": true,
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sq6s6z",
+   "source": "CDFI Job Bank",
    "regions": [
-    "US",
-    "International"
+    "US"
    ]
   },
   {
@@ -90,21 +684,6 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1232952",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Investment Officer - Co-Terminus, Re-Advertisement",
-   "organization": "IFAD - International Fund for Agricultural Development",
-   "location": "Rome",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237162",
    "source": "Impactpool",
    "date_is_added": true,
    "regions": [
@@ -172,21 +751,6 @@
    ]
   },
   {
-   "title": "Chargé (e) d’Investissement (Abidjan)",
-   "organization": "UNV - United Nations Volunteers",
-   "location": "Abidjan",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236041",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "IDB Invest - Investment Management Analyst or Associates - Talent Pool",
    "organization": "IDB Group",
    "location": "Georgetown · Kingston · Church · Nassau · Paramaribo · Port of Spain",
@@ -195,21 +759,6 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1222145",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investment Specialist",
-   "organization": "ADB - Asian Development Bank",
-   "location": "Manila",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1235891",
    "source": "Impactpool",
    "date_is_added": true,
    "regions": [
@@ -232,6 +781,19 @@
    ]
   },
   {
+   "title": "Investment Operations Specialist",
+   "organization": "FAO - Food and Agriculture Organization of the United Nations",
+   "location": "Multiple locations",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-23",
+   "url": "https://www.impactpool.org/jobs/1194121",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": []
+  },
+  {
    "title": "Principal, Investments (Tax & Preferred Equity)",
    "organization": "Crux Climate",
    "location": "Remote · Seattle · Denver · Washington D.C. · Boston",
@@ -247,53 +809,9 @@
    ]
   },
   {
-   "title": "Investment Operations Specialist",
-   "organization": "FAO - Food and Agriculture Organization of the United Nations",
-   "location": "Multiple locations",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1194121",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": []
-  },
-  {
-   "title": "Investment Analyst, Infrastructure, Central America",
-   "organization": "World Bank Group",
-   "location": "Panamá · Mexico City",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236846",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investment Specialist, NPSA10, Accra, Ghana, UNCDF [Open to internal and external applicants]",
-   "organization": "UNDP - United Nations Development Programme",
-   "location": "Bangkok · New York City · Accra · Dakar",
-   "remote": false,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1234548",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US",
-    "International"
-   ]
-  },
-  {
    "title": "Investment Analyst, Financial Institutions Group, Mexico, Central America & the Caribbean",
    "organization": "World Bank Group",
-   "location": "Santo Domingo · Guatemala City · Kingston",
+   "location": "Kingston · Guatemala City · Santo Domingo",
    "remote": false,
    "salary": "",
    "type": "",
@@ -336,21 +854,6 @@
    ]
   },
   {
-   "title": "Investment Manager, Business Development Unit",
-   "organization": "OPEC Fund for International Development",
-   "location": "Vienna",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1198661",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "Principal Investment Officer",
    "organization": "World Bank Group",
    "location": "Washington D.C.",
@@ -381,21 +884,6 @@
    ]
   },
   {
-   "title": "Investment Officer - Financial Sponsor Debt Business",
-   "organization": "AIIB - Asian Infrastructure Investment Bank",
-   "location": "Beijing",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237345",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "National Individual Consultant Specialist DBSA Youth in Biodiversity Investment Facility - Pretoria, South Africa (office based) - 12 months (595794)",
    "organization": "UNICEF - United Nations Children’s Fund",
    "location": "Pretoria",
@@ -404,21 +892,6 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1237246",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "IDB Invest - Investment Associate - Infrastructure and Energy - Andean Region",
-   "organization": "IDB Group",
-   "location": "Quito",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236657",
    "source": "Impactpool",
    "date_is_added": true,
    "regions": [
@@ -471,21 +944,6 @@
    ]
   },
   {
-   "title": "PEC Consultant - IDB Invest - B2B Marketing & Business Communications",
-   "organization": "IDB Group",
-   "location": "Remote · Bogotá · Guatemala City · Port of Spain · Tegucigalpa · Buenos Aires · Paramaribo · São Paulo · Church · San Salvador · Lima · Panamá · Santo Domingo · Belize City · La Paz · Managua · Nassau · Santiago · Asunción · Georgetown · Kingston · Mexico City · Montevideo",
-   "remote": true,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237143",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "Investment Analyst, Special Operations, LAC Region",
    "organization": "World Bank Group",
    "location": "São Paulo",
@@ -498,34 +956,6 @@
    "date_is_added": true,
    "regions": [
     "International"
-   ]
-  },
-  {
-   "title": "Project Specialist on Investable Nature Project Pipeline (Home Based) [Open to internal and external applicants]",
-   "organization": "UNDP - United Nations Development Programme",
-   "location": "Remote · Home Based - May require travel",
-   "remote": true,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/677367",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": []
-  },
-  {
-   "title": "Principal, Tax Investor Coverage",
-   "organization": "Crux Climate",
-   "location": "Remote · Boston · Seattle · Denver · Washington D.C.",
-   "remote": true,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1213289",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
    ]
   },
   {
@@ -544,14 +974,14 @@
    ]
   },
   {
-   "title": "IDB. Investment Risk Management Intern",
-   "organization": "IDB Group",
-   "location": "Washington D.C.",
-   "remote": false,
+   "title": "Principal, Tax Investor Coverage",
+   "organization": "Crux Climate",
+   "location": "Remote · Boston · Seattle · Denver · Washington D.C.",
+   "remote": true,
    "salary": "",
-   "type": "Internship",
+   "type": "",
    "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1233445",
+   "url": "https://www.impactpool.org/jobs/1213289",
    "source": "Impactpool",
    "date_is_added": true,
    "regions": [
@@ -559,19 +989,17 @@
    ]
   },
   {
-   "title": "Internship: Venture Fund Internship (Multiple Interns) - GPD/Office of Innovation, Sweden, 6 months (Part-time) - In person or remote",
-   "organization": "UNICEF - United Nations Children’s Fund",
-   "location": "Remote · Stockholm",
+   "title": "Project Specialist on Investable Nature Project Pipeline (Home Based) [Open to internal and external applicants]",
+   "organization": "UNDP - United Nations Development Programme",
+   "location": "Remote · Home Based - May require travel",
    "remote": true,
    "salary": "",
    "type": "Internship",
    "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236248",
+   "url": "https://www.impactpool.org/jobs/677367",
    "source": "Impactpool",
    "date_is_added": true,
-   "regions": [
-    "International"
-   ]
+   "regions": []
   },
   {
    "title": "Senior Investment Officer, Financial Sponsor Debt Business",
@@ -634,21 +1062,6 @@
    ]
   },
   {
-   "title": "IDB. Intern to Support Staff Retirement Plans Investments Operations",
-   "organization": "IDB Group",
-   "location": "Washington D.C.",
-   "remote": false,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1233447",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Senior Portfolio Manager Inclusive Health",
    "organization": "CBM - Christian Blind Mission",
    "location": "Bensheim · Nairobi · Niamey · Lomé · Lusaka · Cambridge · Abuja · Kampala · Yaoundé · Addis Ababa",
@@ -694,81 +1107,6 @@
    ]
   },
   {
-   "title": "FemTech Portfolio Manager Consultant, Office of Innovation/Innovation Solution, Stockholm, Sweden, 24 months, remote, # 595828",
-   "organization": "UNICEF - United Nations Children’s Fund",
-   "location": "Remote · Stockholm",
-   "remote": true,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237738",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "IDB Invest. Undergraduate Internship: Knowledge Management and Case Analysis - Capital Markets",
-   "organization": "IDB Group",
-   "location": "Washington D.C.",
-   "remote": false,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1233236",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "IDB. ESG Capacity Building and Knowledge Intern",
-   "organization": "IDB Group",
-   "location": "Washington D.C.",
-   "remote": false,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1233242",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Manager, Climate Investment Facility",
-   "organization": "GGGI - Global Green Growth Institute",
-   "location": "Seoul",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1235095",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Economic Recovery Specialist - Financial Inclusion & Market System Development",
-   "organization": "DRC - Danish Refugee Council",
-   "location": "Addis Ababa",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1235938",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "IDB Invest - Portfolio Management Officer - Infra & Energy Sector - Southern Cone Region",
    "organization": "IDB Group",
    "location": "Santiago",
@@ -784,21 +1122,6 @@
    ]
   },
   {
-   "title": "Treasury Analyst",
-   "organization": "OPEC Fund for International Development",
-   "location": "Vienna",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1236088",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "Chief, Portfolio Management",
    "organization": "NDB - New Development Bank",
    "location": "Shanghai",
@@ -807,6 +1130,21 @@
    "type": "",
    "posted": "2026-09-23",
    "url": "https://www.impactpool.org/jobs/1235739",
+   "source": "Impactpool",
+   "date_is_added": true,
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Treasury Analyst",
+   "organization": "OPEC Fund for International Development",
+   "location": "Vienna",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-23",
+   "url": "https://www.impactpool.org/jobs/1236088",
    "source": "Impactpool",
    "date_is_added": true,
    "regions": [
@@ -841,51 +1179,6 @@
    "date_is_added": true,
    "regions": [
     "US"
-   ]
-  },
-  {
-   "title": "PEC Consultant - Capital Markets Benchmarking and Market Access",
-   "organization": "IDB Group",
-   "location": "Remote · Washington D.C.",
-   "remote": true,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237681",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "IDB Invest. Data Analyst - Portfolio Management Intern",
-   "organization": "IDB Group",
-   "location": "Washington D.C.",
-   "remote": false,
-   "salary": "",
-   "type": "Internship",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1233232",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Assistant Analyst, Portfolio",
-   "organization": "EBRD - European Bank for Reconstruction and Development",
-   "location": "London",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-23",
-   "url": "https://www.impactpool.org/jobs/1237464",
-   "source": "Impactpool",
-   "date_is_added": true,
-   "regions": [
-    "International"
    ]
   },
   {
@@ -1133,6 +1426,62 @@
    ]
   },
   {
+   "title": "Fraud Investigator",
+   "organization": "Truliant Federal Credit Union",
+   "location": "Winston-Salem, NC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-22",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8c6p26",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Capital Access Manager",
+   "organization": "Opportunity Finance Network",
+   "location": "Norfolk, VA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-21",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sf8qe3",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Loan Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "Arlington, VA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-21",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/t8n4gd",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Lending Relationship Specialist",
+   "organization": "BankPlus",
+   "location": "Tupelo, MS",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-20",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mb7dbu",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Junior Portfolio Manager",
    "organization": "Fidelity Bank",
    "location": "Charlotte, NC",
@@ -1273,20 +1622,6 @@
    ]
   },
   {
-   "title": "Commercial Loan Service Analyst",
-   "organization": "Fidelity Bank Co.",
-   "location": "Wichita, KS",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-18",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/856utf",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Commercial Loan Administrator",
    "organization": "Travis Credit Union",
    "location": "Vacaville, CA",
@@ -1295,20 +1630,6 @@
    "type": "",
    "posted": "2026-09-18",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zkd56d",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Member Business Lending Officer",
-   "organization": "Five Star Credit Union",
-   "location": "Dothan, AL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-17",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/rra2hc",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -1492,28 +1813,14 @@
    ]
   },
   {
-   "title": "Fraud Investigator",
-   "organization": "Truliant Federal Credit Union",
-   "location": "Winston-Salem, NC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-16",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hz4kiw",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Commercial Loan Assistant",
    "organization": "First Bank",
-   "location": "Marquette, MI",
+   "location": "Escanaba, MI",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-09-16",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/p7uymb",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/u5m2hh",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -1686,6 +1993,20 @@
    ]
   },
   {
+   "title": "Treasury and Client Services Supervisor",
+   "organization": "Beneficial State Bank",
+   "location": "Oakland, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/52quxx",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Loan Officer",
    "organization": "BankPlus",
    "location": "Gulfport, MS",
@@ -1694,20 +2015,6 @@
    "type": "",
    "posted": "2026-09-12",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4f7a6g",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "BankPlus",
-   "location": "Jackson, MS",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-12",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/yi2jrs",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -1922,6 +2229,48 @@
    ]
   },
   {
+   "title": "Investment Program Coordinator",
+   "organization": "Y-12 Federal Credit Union",
+   "location": "Oak Ridge, TN",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pg3ft",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Vice President of Capital and Financing",
+   "organization": "Opportunity Finance Network",
+   "location": "Washington, DC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4hjbuc",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Business Lending Officer",
+   "organization": "Five Star Credit Union",
+   "location": "Dothan, AL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/syk8en",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Director of Community Capital Investments",
    "organization": "Opportunity Finance Network",
    "location": "New York, NY",
@@ -1944,34 +2293,6 @@
    "type": "",
    "posted": "2026-09-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zjc4da",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Vice President of Capital and Financing",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4hjbuc",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Investment Program Coordinator",
-   "organization": "Y-12 Federal Credit Union",
-   "location": "Oak Ridge, TN",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pg3ft",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -2104,20 +2425,6 @@
    ]
   },
   {
-   "title": "Loan Officer",
-   "organization": "Small Business Assistance Corporation",
-   "location": "Savannah, GA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ca45cg",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "IDB Invest – Environmental & Social Senior Officer",
    "organization": "IDB Invest",
    "location": "Multiple Locations",
@@ -2183,20 +2490,6 @@
    "source": "ImpactAlpha",
    "regions": [
     "International"
-   ]
-  },
-  {
-   "title": "Investment Assistant",
-   "organization": "Citizens Bank",
-   "location": "Lancaster, PA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-03",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/m9bscc",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
    ]
   },
   {
@@ -2548,132 +2841,6 @@
    ]
   },
   {
-   "title": "Senior Associate, Pathways to Capital",
-   "organization": "Milken Institute",
-   "location": "Santa Monica, CA",
-   "remote": false,
-   "salary": "$65,000 - $92,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/senior-associate-pathways-to-capital-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director, Pathways to Capital",
-   "organization": "Milken Institute",
-   "location": "Santa Monica, CA",
-   "remote": false,
-   "salary": "$120,000 - $150,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/director-pathways-to-capital/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Executive Director, Senior Project Finance Specialist",
-   "organization": "Rabobank",
-   "location": "United States",
-   "remote": false,
-   "salary": "$225,000 - $275,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/executive-director-senior-project-finance-specialist/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Director, Fund Management and Client Services",
-   "organization": "Mission Driven Finance",
-   "location": "Remote, USA",
-   "remote": true,
-   "salary": "$135,000 - $165,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/senior-director-fund-management-and-client-services/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Associate, Energy Demand – Research & Innovation",
-   "organization": "Energy Impact Partners LP",
-   "location": "Atlanta, Georgia",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/associate-energy-demand-research-innovation/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Associate, Incentives",
-   "organization": "New York City Economic Development Corporation",
-   "location": "New York, New York",
-   "remote": false,
-   "salary": "$90,000 - $92,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/senior-associate-incentives/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director, Nature Finance and Investments",
-   "organization": "World Wildlife Fund, Inc.",
-   "location": "United States",
-   "remote": false,
-   "salary": "$127,800 - $183,700",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/director-nature-finance-and-investments-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Vice President, Structured Finance",
-   "organization": "Charter School Growth Fund",
-   "location": "Flexible within the US",
-   "remote": true,
-   "salary": "$150,000 - $180,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/vice-president-structured-finance/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Asset Manager – National Field Operations",
-   "organization": "Enterprise Community Partners",
-   "location": "Remote (Pacific, Mountain, or Central time zones preferred)",
-   "remote": true,
-   "salary": "$105,000 - $128,000",
-   "type": "Full Time",
-   "posted": "2026-08-28",
-   "url": "https://impactalpha.com/job/senior-asset-manager-national-field-operations/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Loan Officer Certification and Quality Assurance Specialist",
    "organization": "Latino Community Credit Union",
    "location": "Durham, NC",
@@ -2715,242 +2882,6 @@
    ]
   },
   {
-   "title": "Chief External Affairs Officer",
-   "organization": "Common Future",
-   "location": "Oakland, California",
-   "remote": true,
-   "salary": "$162,508 - $188,861",
-   "type": "Full Time",
-   "posted": "2026-08-26",
-   "url": "https://impactalpha.com/job/chief-external-affairs-officer-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director of Finance",
-   "organization": "Trust Neighborhoods",
-   "location": "Remote",
-   "remote": true,
-   "salary": "$115,000 - $140,000",
-   "type": "",
-   "posted": "2026-08-26",
-   "url": "https://impactalpha.com/job/director-of-finance-7/",
-   "source": "ImpactAlpha",
-   "regions": []
-  },
-  {
-   "title": "Executive Director",
-   "organization": "The Enough Project",
-   "location": "Remote (US-based)",
-   "remote": true,
-   "salary": "$225,000 - $275,000",
-   "type": "",
-   "posted": "2026-08-26",
-   "url": "https://impactalpha.com/job/executive-director-7/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Head of Communications",
-   "organization": "Social Finance",
-   "location": "Boston, MA",
-   "remote": false,
-   "salary": "$190,000",
-   "type": "",
-   "posted": "2026-08-26",
-   "url": "https://impactalpha.com/job/head-of-communications-3/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Development and Communications Officer",
-   "organization": "ICA Fund",
-   "location": "Oakland, CA",
-   "remote": false,
-   "salary": "$180,000 - $220,000",
-   "type": "",
-   "posted": "2026-08-26",
-   "url": "https://impactalpha.com/job/chief-development-and-communications-officer/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Investment Officer",
-   "organization": "California Public Employees' Retirement System (CalPERS)",
-   "location": "Sacramento, CA",
-   "remote": false,
-   "salary": "$7,993 - $10,004",
-   "type": "Full Time",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/investment-officer-13/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Expansion Lead",
-   "organization": "Norrsken Foundation",
-   "location": "Stockholm, Sweden",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/expansion-lead/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investments Director",
-   "organization": "Capital Impact Partners",
-   "location": "Arlington, VA; California; New York City; Remote",
-   "remote": true,
-   "salary": "$142,244 - $190,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/investments-director-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Impact-First Investments Officer",
-   "organization": "California Community Foundation",
-   "location": "Los Angeles, CA",
-   "remote": false,
-   "salary": "$110,733 - $118,450",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/impact-first-investments-officer/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Vice President, ESG Investment Management",
-   "organization": "Temasek",
-   "location": "New York, USA",
-   "remote": false,
-   "salary": "$170,000 - $230,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/vice-president-esg-investment-management/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Associate, Pathways to Capital",
-   "organization": "Milken Institute",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "$65,000 - $92,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/senior-associate-pathways-to-capital/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Equity Research Analyst, Impact Investing – Vice President",
-   "organization": "Neuberger Berman",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "$150,000 - $200,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/equity-research-analyst-impact-investing-vice-president-3/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Manager, Durable Conservation and Finance",
-   "organization": "World Wildlife Fund",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/manager-durable-conservation-and-finance/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director of Programs",
-   "organization": "Food System 6",
-   "location": "Remote (U.S.)",
-   "remote": true,
-   "salary": "$95,000 - $105,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/director-of-programs-4/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Partnerships Lead",
-   "organization": "Watershed",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/partnerships-lead/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "ESG Stewardship Analyst",
-   "organization": "Capital Group",
-   "location": "San Francisco, CA",
-   "remote": false,
-   "salary": "$105,468 - $168,749",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/esg-stewardship-analyst-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Community Impact Officer",
-   "organization": "Columbia Bank",
-   "location": "Irvine, CA",
-   "remote": false,
-   "salary": "$120,000 - $140,000",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://impactalpha.com/job/community-impact-officer/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Loan Underwriter",
    "organization": "LiftFund",
    "location": "San Antonio, TX",
@@ -2965,90 +2896,6 @@
    ]
   },
   {
-   "title": "Investment Analyst, Decarbonization Partners",
-   "organization": "BlackRock",
-   "location": "Singapore",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/investment-analyst-decarbonization-partners/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Analyst – Impact & ESG analysis",
-   "organization": "M&G Global Services",
-   "location": "Mumbai",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/senior-analyst-impact-esg-analysis/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Associate Vice President, Program & Business Development",
-   "organization": "Impact Investment Exchange (IIX)",
-   "location": "Jakarta, ID",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/associate-vice-president-program-business-development/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "AVP (12 months contract), Sustainability (ESG Investment Management)",
-   "organization": "Temasek",
-   "location": "Singapore",
-   "remote": false,
-   "salary": "",
-   "type": "Temporary",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/avp-12-months-contract-sustainability-esg-investment-management/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Associate, Investments and Portfolio",
-   "organization": "Upaya Social Ventures",
-   "location": "Bangalore",
-   "remote": false,
-   "salary": "₹1,200,000 - ₹1,700,000",
-   "type": "Full Time",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/associate-investments-and-portfolio/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Head of Climate Resilience Center, APAC",
-   "organization": "Zurich Insurance Company Ltd.",
-   "location": "Singapore",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-08-24",
-   "url": "https://impactalpha.com/job/head-of-climate-resilience-center-apac/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "Chief Credit Officer",
    "organization": "First State Bank",
    "location": "Cheyenne, WY",
@@ -3057,20 +2904,6 @@
    "type": "",
    "posted": "2026-08-24",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/v96muu",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Lending Assistant",
-   "organization": "Fidelity Bank",
-   "location": "Oklahoma City, OK",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/39qavf",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3113,6 +2946,20 @@
    "type": "",
    "posted": "2026-08-23",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/56tepf",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Lending Assistant",
+   "organization": "Fidelity Bank",
+   "location": "Oklahoma City, OK",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-23",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/39qavf",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3182,7 +3029,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-08-17",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vi3jj2",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/76fq5y",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3259,20 +3106,6 @@
    ]
   },
   {
-   "title": "Director of Treasury and Finance",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e4y46v",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Portfolio Manager",
    "organization": "United Bank, Inc.",
    "location": "Myrtle Beach, SC",
@@ -3281,6 +3114,20 @@
    "type": "",
    "posted": "2026-08-09",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2xjt28",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director of Treasury and Finance",
+   "organization": "Opportunity Finance Network",
+   "location": "Washington, DC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e4y46v",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3301,20 +3148,6 @@
    ]
   },
   {
-   "title": "Chief Investment Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Baltimore, MD",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-05",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2vgaw3",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Commercial Loan Portfolio Manager",
    "organization": "Central Bank of Kansas City",
    "location": "Kansas City, MO",
@@ -3323,6 +3156,20 @@
    "type": "",
    "posted": "2026-08-05",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/surd9m",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Chief Investment Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "Baltimore, MD",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-05",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2vgaw3",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3342,6 +3189,20 @@
    "regions": []
   },
   {
+   "title": "Commercial Loan Officer",
+   "organization": "Royal Credit Union Inc.",
+   "location": "Edina, MN",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-04",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3c72ke",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Chief Lending Officer",
    "organization": "Dade County Federal Credit Union",
    "location": "Miami, FL",
@@ -3350,20 +3211,6 @@
    "type": "",
    "posted": "2026-08-04",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6hn57y",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Underwriter",
-   "organization": "OneUnited Bank",
-   "location": "Miami, FL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-04",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/b368wx",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3445,7 +3292,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-27",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/jh78mi",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/pr2dwv",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3609,20 +3456,6 @@
    "regions": []
   },
   {
-   "title": "Chief Credit Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-22",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k3cq8p",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Lending Support Specialist",
    "organization": "Opportunity Finance Network",
    "location": "New York, NY",
@@ -3631,6 +3464,20 @@
    "type": "",
    "posted": "2026-07-22",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ber6bq",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Chief Credit Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "Washington, DC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-07-22",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k3cq8p",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3847,20 +3694,6 @@
    ]
   },
   {
-   "title": "Vice President of Commercial Underwriting",
-   "organization": "OneUnited Bank",
-   "location": "Los Angeles, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/h8xj95",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Lending and Compliance Associate",
    "organization": "Opportunity Finance Network",
    "location": "Washington, DC",
@@ -3931,6 +3764,20 @@
    ]
   },
   {
+   "title": "Portfolio Manager",
+   "organization": "First Bank",
+   "location": "Carmi, IL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-06-22",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/drht53",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Vice President, Finance and Investor Reporting",
    "organization": "ICM member fund",
    "location": "",
@@ -3957,20 +3804,6 @@
    "regions": []
   },
   {
-   "title": "Lending Specialist",
-   "organization": "Community First Credit Union",
-   "location": "Neenah, WI",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-14",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8xg5jb",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Director of Lending",
    "organization": "Opportunity Finance Network",
    "location": "Richmond, VA",
@@ -3979,6 +3812,20 @@
    "type": "",
    "posted": "2026-06-14",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3dm5ns",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Lending Specialist",
+   "organization": "Community First Credit Union",
+   "location": "Neenah, WI",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-06-14",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8xg5jb",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4049,34 +3896,6 @@
    "type": "",
    "posted": "2026-06-03",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5fq6bv",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Investment Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Bentonville, AR",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-05-31",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/644zft",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Credit and Lending Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Fort Pierce, FL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-05-31",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ew8m4d",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
