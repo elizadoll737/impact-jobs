@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14T00:01:47+00:00",
+ "updated": "2026-10-21T00:04:22+00:00",
  "sources": {
   "ImpactAlpha": {
-   "last_success": "2026-10-14T00:01:47+00:00",
+   "last_success": "2026-10-21T00:04:22+00:00",
    "ok": true,
-   "count": 110
+   "count": 117
   },
   "Impact Capital Managers": {
-   "last_success": "2026-10-14T00:01:47+00:00",
+   "last_success": "2026-10-21T00:04:22+00:00",
    "ok": true,
    "count": 19
   },
@@ -23,6 +23,490 @@
   }
  },
  "jobs": [
+  {
+   "title": "Impact Investments MBA Internship",
+   "organization": "Spring Point Partners",
+   "location": "Philadelphia, PA",
+   "remote": false,
+   "salary": "$40",
+   "type": "Internship",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/impact-investments-mba-internship/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Associate, Capital",
+   "organization": "Praxis",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$75,000 - $92,500",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/associate-capital-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Manager, Internal Operations",
+   "organization": "Praxis",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$85,000 - $105,000",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/manager-internal-operations/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Outgoing Agreements and Financial Associate Specialist",
+   "organization": "World Wildlife Fund, Inc.",
+   "location": "Not Specified",
+   "remote": false,
+   "salary": "$59,900 - $74,900",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/outgoing-agreements-and-financial-associate-specialist/",
+   "source": "ImpactAlpha",
+   "regions": []
+  },
+  {
+   "title": "Director of Fundraising and Partnerships",
+   "organization": "Impact Investing Institute",
+   "location": "Old Street, London",
+   "remote": false,
+   "salary": "£67,000 - £76,000",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/director-of-fundraising-and-partnerships/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Senior Investment Associate – Energy Transition-focused Fund",
+   "organization": "Remarkable Ventures",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$110,000 - $150,000",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/senior-investment-associate-energy-transition-focused-fund/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Executive Director",
+   "organization": "Climate & Health Funders Coalition",
+   "location": "United Kingdom",
+   "remote": false,
+   "salary": "£170,000 - £190,000",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/executive-director-11/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Impact Capital Managers Mosaic Fellowship",
+   "organization": "Impact Capital Managers",
+   "location": "Multiple Locations",
+   "remote": false,
+   "salary": "$20,000",
+   "type": "Internship",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/impact-capital-managers-mosaic-fellowship/",
+   "source": "ImpactAlpha",
+   "regions": []
+  },
+  {
+   "title": "Senior Investment Manager",
+   "organization": "PI Impact",
+   "location": "Rotterdam, Netherlands",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/senior-investment-manager-3/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Officer: Latin America",
+   "organization": "Enabling Qapital Ltd.",
+   "location": "Quito, Ecuador",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/investment-officer-latin-america/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Director, Inclusive Entrepreneurship",
+   "organization": "Candide Group",
+   "location": "Oakland, California",
+   "remote": true,
+   "salary": "$165,000 - $190,000",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/director-inclusive-entrepreneurship-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Director, Climate Tech",
+   "organization": "Sagana",
+   "location": "India",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/investment-director-climate-tech/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Global People & Operations Manager",
+   "organization": "Circulate Capital",
+   "location": "Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/global-people-operations-manager/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "SVP/VP of ESG and Impact Advisory (Corporate Sustainability Solutions)",
+   "organization": "Impact Investment Exchange (IIX)",
+   "location": "Jakarta, Indonesia",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/svp-vp-of-esg-and-impact-advisory-corporate-sustainability-solutions/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Senior Vice President, Investor Relations",
+   "organization": "IIX Global",
+   "location": "Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/senior-vice-president-investor-relations/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Associate Director (Finance)",
+   "organization": "Temasek Foundation",
+   "location": "Singapore, Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-19",
+   "url": "https://impactalpha.com/job/associate-director-finance/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Climate Finance Analyst",
+   "organization": "responsAbility",
+   "location": "Mumbai",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/climate-finance-analyst/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Venture Capital Investment Consultant",
+   "organization": "IDB Lab",
+   "location": "Lima, Santiago, Guatemala City, Panamá, Quito, San Salvador, Santo Domingo, La Paz, Montevideo, San Jose, Tegucigalpa, Asuncion",
+   "remote": false,
+   "salary": "",
+   "type": "Temporary",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/venture-capital-investment-consultant/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Managing Director, Office of the Chief Operating Officer",
+   "organization": "The Rockefeller Foundation",
+   "location": "New York, NY, US",
+   "remote": false,
+   "salary": "$250,000 - $290,000",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/managing-director-office-of-the-chief-operating-officer/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Climate Analyst",
+   "organization": "Pulsora Inc",
+   "location": "United States",
+   "remote": true,
+   "salary": "$60,000 - $70,000",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/climate-analyst/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Investment Manager",
+   "organization": "PI Impact",
+   "location": "Rotterdam, South Holland, Netherlands",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/senior-investment-manager-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Head of Investor Relations & Capital Formation",
+   "organization": "Illumen Capital",
+   "location": "Oakland, CA",
+   "remote": false,
+   "salary": "$225,000 - $250,000",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/head-of-investor-relations-capital-formation/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Advisor Sr, GCF Pipeline and Capture Lead",
+   "organization": "Catholic Relief Services",
+   "location": "Council Bluffs, IA",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/advisor-sr-gcf-pipeline-and-capture-lead/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Executive Director",
+   "organization": "Confidential Family Philanthropy",
+   "location": "NY - New York metropolitan area",
+   "remote": false,
+   "salary": "$300,000 - $375,000",
+   "type": "Full Time",
+   "posted": "2026-10-16",
+   "url": "https://impactalpha.com/job/executive-director-10/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Managing Director",
+   "organization": "Equality Fund",
+   "location": "Remote",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/managing-director-9/",
+   "source": "ImpactAlpha",
+   "regions": []
+  },
+  {
+   "title": "Impact Investment Professional, Family Office",
+   "organization": "Hedge Impact headhunting",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$240,000 - $270,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/impact-investment-professional-family-office/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "GFANZ Regional Director, APAC",
+   "organization": "Bloomberg",
+   "location": "Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Temporary",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/gfanz-regional-director-apac-12-month-contract/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Manager, Community and Nature Investments",
+   "organization": "National Grid",
+   "location": "Brooklyn, NY",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/manager-community-and-nature-investments/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Sustainability Analyst",
+   "organization": "Arva",
+   "location": "Houston, TX",
+   "remote": true,
+   "salary": "$90,000 - $100,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/sustainability-analyst-7/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Grants Manager",
+   "organization": "EarthPercent",
+   "location": "UK",
+   "remote": true,
+   "salary": "£45,000 - £50,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/grants-manager-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "PEC Consultant – Colabora Investment Professional",
+   "organization": "Inter-American Development Bank",
+   "location": "Washington, DC",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/pec-consultant-colabora-investment-professional/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Vice President (SVP) of Finance",
+   "organization": "Los Angeles Cleantech Incubator (LACI)",
+   "location": "Los Angeles, CA",
+   "remote": false,
+   "salary": "$180,000 - $215,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/senior-vice-president-svp-of-finance/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Managing Director – Planetary A/S",
+   "organization": "Planetary Impact Ventures",
+   "location": "Humlebæk, Denmark",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/managing-director-planetary-a-s/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "President & CEO",
+   "organization": "Robert Sterling Clark Foundation",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$300,000 - $325,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/president-ceo-3/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Advisor Multifamily Climate Solutions",
+   "organization": "City of New York, Department of Environmental Protection",
+   "location": "Manhattan, New York",
+   "remote": false,
+   "salary": "$110,000",
+   "type": "Full Time",
+   "posted": "2026-10-14",
+   "url": "https://impactalpha.com/job/senior-advisor-multifamily-climate-solutions/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
   {
    "title": "Chief Executive Officer",
    "organization": "Convergence",
@@ -338,20 +822,6 @@
    "type": "Full Time",
    "posted": "2026-10-06",
    "url": "https://impactalpha.com/job/donor-and-investor-relations-officer/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Loan Officer",
-   "organization": "Rochdale Capital",
-   "location": "Arlington, VA",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-06",
-   "url": "https://impactalpha.com/job/senior-loan-officer-2/",
    "source": "ImpactAlpha",
    "regions": [
     "US"
@@ -2347,104 +2817,6 @@
    ]
   },
   {
-   "title": "Manager Impact, India and Southeast Asia",
-   "organization": "Global Energy Alliance for People and Planet (Global Energy Alliance) LLC",
-   "location": "New Delhi, India",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/manager-impact-india-and-southeast-asia/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Sustainability and Climate Risk Specialist",
-   "organization": "UBS",
-   "location": "Pune, India",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/sustainability-and-climate-risk-specialist/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Vice President of Risk",
-   "organization": "Social Investment Managers & Advisors (SIMA Funds)",
-   "location": "India",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/vice-president-of-risk/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Renewable Energy Investment Analyst",
-   "organization": "World Resources Institute (WRI)",
-   "location": "Jakarta, Indonesia",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/renewable-energy-investment-analyst/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Associate, Value Creation",
-   "organization": "Keppel Capital International Pte. Ltd.",
-   "location": "Singapore",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/associate-value-creation/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investment Associate",
-   "organization": "Kiva",
-   "location": "Bangkok, Thailand",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/investment-associate-bangkok/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Executive Director",
-   "organization": "Texas Impact Capital Alliance",
-   "location": "Texas, United States",
-   "remote": true,
-   "salary": "$90,000 - $110,000",
-   "type": "Part Time",
-   "posted": "2026-09-18",
-   "url": "https://impactalpha.com/job/executive-director-8/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Commercial Loan Administrator",
    "organization": "Travis Credit Union",
    "location": "Vacaville, CA",
@@ -2454,156 +2826,6 @@
    "posted": "2026-09-18",
    "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zkd56d",
    "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Manager, Impact First Investing",
-   "organization": "Climate Lead",
-   "location": "San Francisco, CA",
-   "remote": false,
-   "salary": "$140,000 - $154,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/manager-impact-first-investing/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Development Officer",
-   "organization": "Washington Area Community Investment Fund (WACIF)",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "$130,000 - $185,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/chief-development-officer-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Associate, Finance",
-   "organization": "Pattern Energy",
-   "location": "United States",
-   "remote": false,
-   "salary": "$103,000 - $138,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/associate-finance/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Corporate Sustainability Strategy Analyst",
-   "organization": "SBA Communications",
-   "location": "Boca Raton, FL",
-   "remote": false,
-   "salary": "$68,896 - $110,189",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/corporate-sustainability-strategy-analyst/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Associate, Development",
-   "organization": "CleanCapital",
-   "location": "Remote",
-   "remote": true,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/senior-associate-development/",
-   "source": "ImpactAlpha",
-   "regions": []
-  },
-  {
-   "title": "Senior Analyst, Advisory",
-   "organization": "Novata",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "$100,000 - $110,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/senior-analyst-advisory-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Associate, Underwriting",
-   "organization": "Local Initiatives Support Corporation",
-   "location": "Remote",
-   "remote": true,
-   "salary": "$105,000 - $130,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/senior-associate-underwriting/",
-   "source": "ImpactAlpha",
-   "regions": []
-  },
-  {
-   "title": "Stewardship Analyst",
-   "organization": "Wellington Management Company LLP",
-   "location": "Boston, MA",
-   "remote": false,
-   "salary": "$80,000 - $150,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/stewardship-analyst-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Vice President, Catalytic Capital",
-   "organization": "Food System Innovations",
-   "location": "United States",
-   "remote": true,
-   "salary": "$225,000 - $275,000",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/vice-president-catalytic-capital/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Investment Analyst, Infrastructure, Central America",
-   "organization": "International Finance Corporation (IFC)",
-   "location": "Mexico City, Mexico; Panama City, Panama",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/investment-analyst-infrastructure-central-america/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Project Operations Manager",
-   "organization": "Women's Home Preservation",
-   "location": "Baltimore, MD",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-16",
-   "url": "https://impactalpha.com/job/project-operations-manager/",
-   "source": "ImpactAlpha",
    "regions": [
     "US"
    ]
@@ -2650,46 +2872,6 @@
    ]
   },
   {
-   "title": "Business Operations Manager",
-   "organization": "Homium",
-   "location": "Salt Lake City, UT",
-   "remote": false,
-   "salary": "$60,000 - $90,000",
-   "type": "Full Time",
-   "posted": "2026-09-15",
-   "url": "https://impactalpha.com/job/business-operations-manager/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Principal – Inclusive Commercial Value Chains",
-   "organization": "SNV",
-   "location": "",
-   "remote": true,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-09-15",
-   "url": "https://impactalpha.com/job/principal-inclusive-commercial-value-chains/",
-   "source": "ImpactAlpha",
-   "regions": []
-  },
-  {
-   "title": "Sustainability Officer",
-   "organization": "FMO",
-   "location": "Netherlands",
-   "remote": false,
-   "salary": "€75,000 - €85,000",
-   "type": "Full Time",
-   "posted": "2026-09-15",
-   "url": "https://impactalpha.com/job/sustainability-officer-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
    "title": "Director of Community Capital Investments",
    "organization": "Local Initiatives Support Corporation",
    "location": "New York, NY",
@@ -2729,90 +2911,6 @@
    "source": "CDFI Job Bank",
    "regions": [
     "US"
-   ]
-  },
-  {
-   "title": "Investment Manager, Debt Sustainable Food – Africa",
-   "organization": "Incofin",
-   "location": "Nairobi, Kenya",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/investment-manager-debt-sustainable-food-africa/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Environmental Social and Governance Specialist",
-   "organization": "Vodacom",
-   "location": "Kinshasa, DRC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/environmental-social-and-governance-specialist/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Advisor, Investment Climate and Private Sector Development",
-   "organization": "Tony Blair Institute for Global Change",
-   "location": "Freetown, Sierra Leone",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/senior-advisor-investment-climate-and-private-sector-development/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Carbon Excellence Country Coordinator – Kinshasa, DRC",
-   "organization": "BURN",
-   "location": "Kinshasa, DRC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/carbon-excellence-country-coordinator-kinshasa-drc/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investment Associate, Soros Economic Development Fund (SEDF)",
-   "organization": "Open Society Foundations",
-   "location": "Nairobi, Kenya",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/investment-associate-soros-economic-development-fund-sedf/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Malawi Monitoring, Evaluation and Learning Lead",
-   "organization": "One Acre Fund",
-   "location": "Zomba, Malawi",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-14",
-   "url": "https://impactalpha.com/job/malawi-mel-lead/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
    ]
   },
   {
