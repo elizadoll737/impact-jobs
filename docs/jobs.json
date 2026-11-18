@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-11T01:10:38+00:00",
+ "updated": "2026-11-18T01:00:06+00:00",
  "sources": {
   "ImpactAlpha": {
-   "last_success": "2026-11-11T01:10:38+00:00",
+   "last_success": "2026-11-18T01:00:06+00:00",
    "ok": true,
-   "count": 137
+   "count": 132
   },
   "Impact Capital Managers": {
-   "last_success": "2026-11-11T01:10:38+00:00",
+   "last_success": "2026-11-18T01:00:06+00:00",
    "ok": true,
    "count": 28
   },
   "CDFI Job Bank": {
-   "last_success": "2026-09-30T00:00:06+00:00",
-   "ok": false,
-   "count": 95
+   "last_success": "2026-11-18T01:00:06+00:00",
+   "ok": true,
+   "count": 119
   },
   "Impactpool": {
    "last_success": "2026-09-30T00:00:06+00:00",
@@ -23,6 +23,748 @@
   }
  },
  "jobs": [
+  {
+   "title": "IFI Fellow 2027",
+   "organization": "IFI (Innovative Finance International)",
+   "location": "Remote (South Africa timezone +/- 2 hours)",
+   "remote": true,
+   "salary": "$1,000",
+   "type": "Temporary",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/ifi-fellow-2027/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Senior Policy Fellow – Green and Resilient Transitions",
+   "organization": "London School of Economics and Political Science (LSE)",
+   "location": "London, UK",
+   "remote": false,
+   "salary": "£64,638 - £74,627",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/senior-policy-fellow-green-and-resilient-transitions/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Chief of Staff",
+   "organization": "The Monarch Foundation",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "$135,000 - $155,000",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/chief-of-staff-6/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Associate",
+   "organization": "Advantage Capital Management",
+   "location": "Chicago, STL, New Orleans, New York, or Austin",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/senior-associate-5/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Vice President",
+   "organization": "Advantage Capital Management",
+   "location": "Chicago, STL, New Orleans, New York, Austin",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/vice-president/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Fund Operations Analyst",
+   "organization": "Accion Impact Management LLC",
+   "location": "Washington, DC",
+   "remote": false,
+   "salary": "$60,000 - $80,000",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/investment-fund-operations-analyst/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Manager",
+   "organization": "Social Investment Managers & Advisors (SIMA Funds)",
+   "location": "Council Bluffs, IA",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/investment-manager-14/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Associate Director of Research and Evaluation",
+   "organization": "Third Plateau",
+   "location": "Remote, US",
+   "remote": true,
+   "salary": "$101,000 - $119,000",
+   "type": "Full Time",
+   "posted": "2026-11-17",
+   "url": "https://impactalpha.com/job/associate-director-of-research-and-evaluation/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Sr. Home Loan Officer - Business Development",
+   "organization": "Gesa Credit Union",
+   "location": "Salem, OR",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/wig2tv",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Banking Associate - Advisory - Business Services",
+   "organization": "Citizens",
+   "location": "Atlanta, GA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/96swc6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Vice President Investment Banking, Advisory - Business Services",
+   "organization": "Citizens",
+   "location": "Atlanta, GA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/prwa8s",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "CRE Portfolio Manager II",
+   "organization": "Citizens",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xpm662",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Impact Investing & Climate Finance Fellow",
+   "organization": "Amaly Legacy",
+   "location": "India",
+   "remote": false,
+   "salary": "",
+   "type": "Temporary",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/impact-investing-climate-finance-fellow/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Director, Knowledge Products and Impact",
+   "organization": "AVPN",
+   "location": "Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/director-knowledge-products-and-impact/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Clean Energy Investment Analyst APAC",
+   "organization": "Nuveen",
+   "location": "APAC",
+   "remote": false,
+   "salary": "",
+   "type": "Temporary",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/clean-energy-investment-analyst-apac/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Lead, Capital Markets, Co-Axis",
+   "organization": "Temasek Trust",
+   "location": "Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/lead-capital-markets-co-axis/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Ventures Associate",
+   "organization": "Wavemaker",
+   "location": "Southeast Asia",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/ventures-associate/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Partnerships Coordinator",
+   "organization": "Climate Policy Initiative (CPI)",
+   "location": "New Delhi, India",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/partnerships-coordinator/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Clean Energy Investment Analyst APAC – Contract role 6/12 months",
+   "organization": "Nuveen, a TIAA company",
+   "location": "Singapore, Singapore",
+   "remote": false,
+   "salary": "",
+   "type": "Temporary",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/clean-energy-investment-analyst-apac-contract-role-6-12-months/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Senior Associate – Energy Transition – Advisory Deals",
+   "organization": "PwC Indonesia",
+   "location": "Jakarta, Indonesia",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/senior-associate-energy-transition-advisory-deals/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Assurance – ESG, Manager / Senior Manager",
+   "organization": "EY",
+   "location": "Kuala Lumpur",
+   "remote": true,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/assurance-esg-manager-senior-manager/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Analyst, ESG – Japan Real Estate",
+   "organization": "Ares Management Corporation",
+   "location": "Tokyo, Japan",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-16",
+   "url": "https://impactalpha.com/job/analyst-esg-japan-real-estate/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Investment Banking Analyst Debt Capital Markets",
+   "organization": "Citizens",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-16",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/qt2j6c",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Rural Housing Programs and Community Development VISTA 2026-27",
+   "organization": "Habitat for Humanity",
+   "location": "",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-16",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5xh96m",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Specialist I, II or Senior (DOE)",
+   "organization": "Rogue Credit Union",
+   "location": "Redding, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-15",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/eiwm7y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Community Development Associate",
+   "organization": "Pursuit",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-14",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k5fc5z",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director, Community Development Lending",
+   "organization": "Partner Community Capital",
+   "location": "Asheville, NC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-14",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/y69wgu",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director of Community Capital Investments",
+   "organization": "Local Initiatives Support Corporation",
+   "location": "New York City, NY",
+   "remote": true,
+   "salary": "$134,405 - $145,000",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/director-of-community-capital-investments-2/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Analyst – Fundraising & Investor Relations",
+   "organization": "Blue Earth Capital AG",
+   "location": "Madrid, Spain",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/analyst-fundraising-investor-relations/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Deputy Director, Leadership Advising, India Country Office",
+   "organization": "Bill & Melinda Gates Foundation",
+   "location": "New Delhi, India",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/deputy-director-leadership-advising-india-country-office/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Program Officer",
+   "organization": "James S. McDonnell Foundation",
+   "location": "St. Louis, MO",
+   "remote": false,
+   "salary": "$105,000 - $120,000",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/program-officer-5/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Associate Program Officer",
+   "organization": "James S. McDonnell Foundation",
+   "location": "St. Louis, MO",
+   "remote": false,
+   "salary": "$60,000 - $85,000",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/associate-program-officer/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Program Manager",
+   "organization": "Bloomberg Ocean Fund",
+   "location": "North America, Europe, Latin America",
+   "remote": true,
+   "salary": "$140,000 - $160,000",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/program-manager-14/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Principal, Programs and Policy (Philanthropic Partnerships)",
+   "organization": "Omidyar Network",
+   "location": "San Francisco, DC",
+   "remote": false,
+   "salary": "$154,200 - $214,200",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/principal-programs-and-policy-philanthropic-partnerships/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Principal, Programs and Policy (Political Economy of AI)",
+   "organization": "Omidyar Network",
+   "location": "Washington, DC; San Francisco",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/principal-programs-and-policy-political-economy-of-ai/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Principal, Programs and Policy (Coalitions)",
+   "organization": "Omidyar Network",
+   "location": "San Francisco, Washington D.C.",
+   "remote": false,
+   "salary": "",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/principal-programs-and-policy-coalitions/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Manager, Impact Measurement and Reporting",
+   "organization": "Rally Assets",
+   "location": "Toronto, ON",
+   "remote": false,
+   "salary": "$100,000 - $110,000",
+   "type": "Full Time",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/manager-impact-measurement-and-reporting/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "International"
+   ]
+  },
+  {
+   "title": "Lender Partnerships & Fund Operations Lead",
+   "organization": "The Resiliency Company",
+   "location": "Remote (U.S.)",
+   "remote": true,
+   "salary": "$80 - $110",
+   "type": "Temporary",
+   "posted": "2026-11-13",
+   "url": "https://impactalpha.com/job/lender-partnerships-fund-operations-lead/",
+   "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Treasury Director",
+   "organization": "First Bank",
+   "location": "Jefferson City, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/uzjhj6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Dealer Relations Representative",
+   "organization": "Pelican State Credit Union",
+   "location": "Baton Rouge, LA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/kzaj8y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Portfolio Manager",
+   "organization": "Nusenda",
+   "location": "Albuquerque, NM",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/nn563x",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "SVP, Senior Director of Treasury",
+   "organization": "First Bank",
+   "location": "St. Louis, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/idbe5w",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Treasury Analyst",
+   "organization": "First Independence Bank",
+   "location": "Detroit, MI",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/99prk3",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "IT Portfolio Platform Analyst",
+   "organization": "Commerce Bank",
+   "location": "Kansas City, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8tit9y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director of Lending",
+   "organization": "Housing Partnership Network",
+   "location": "",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-13",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/g4fsp6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Real Estate Acquisition Manager",
+   "organization": "Homewise Inc.",
+   "location": "",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/r6fx2b",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Real Estate Acquisitions Team Lead",
+   "organization": "Homewise Inc.",
+   "location": "",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ht9qex",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Real Estate Underwriting Analyst",
+   "organization": "Homewise Inc.",
+   "location": "",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k3ipm5",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Manager",
+   "organization": "United Bank, Inc.",
+   "location": "Greer, SC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/nz27i7",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Student Lending Customer Advisor II",
+   "organization": "Citizens Bank",
+   "location": "Irving, TX",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zxhn8b",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Financial Lending Advocate-Inbound",
+   "organization": "Five Star Credit Union",
+   "location": "Dothan, AL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ke42pt",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Manager",
+   "organization": "United Bank",
+   "location": "Greer, SC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/we26ki",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Loan Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "Miami, FL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-11",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7ykj65",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
   {
    "title": "Managing Director, WWF Impact",
    "organization": "World Wildlife Fund, Inc.",
@@ -304,6 +1046,76 @@
    ]
   },
   {
+   "title": "Portfolio Manager Associate",
+   "organization": "Commerce Bank",
+   "location": "Clayton, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xbh77h",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Business Analyst of Lending Systems",
+   "organization": "Leaders Credit Union",
+   "location": "Jackson, TN",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/bf8h9w",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Treasury Analyst",
+   "organization": "Pursuit",
+   "location": "Denver, CO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-08",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/23n9zk",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Loan Officer",
+   "organization": "Florida Community Loan Fund, Inc.",
+   "location": "Miami, FL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-08",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ybd8q2",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Executive Lending Assistant",
+   "organization": "Commerce Bank",
+   "location": "Dallas, TX",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-08",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8sm6n6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Senior Associate, Portfolio Manager",
    "organization": "Regenerative Social Finance (RSF)",
    "location": "San Francisco, CA",
@@ -416,6 +1228,90 @@
    ]
   },
   {
+   "title": "Portfolio Manager",
+   "organization": "Citizens Bank",
+   "location": "San Francisco, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xmj5rm",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investment Director",
+   "organization": "Opportunity Finance Network",
+   "location": "Los Angeles, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7hp8cp",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Credit Underwriter",
+   "organization": "United Bank",
+   "location": "Foley, AL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5d2fh6",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Construction Loan Portfolio Manager",
+   "organization": "Fidelity Bank",
+   "location": "Easton, PA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/9i9un3",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Lending Funder",
+   "organization": "Goldenwest Federal Credit Union",
+   "location": "Washington, UT",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-05",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/aq2wm3",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Closing Director",
+   "organization": "Partner Community Capital",
+   "location": "Winston-Salem, NC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-05",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/rbt55h",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Program Associate",
    "organization": "Climate Policy Initiative",
    "location": "Cape Town, South Africa",
@@ -495,6 +1391,34 @@
    "posted": "2026-11-04",
    "url": "https://impactalpha.com/job/capital-markets-associate-senior-associate/",
    "source": "ImpactAlpha",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Senior Vice President, Chief Credit Officer",
+   "organization": "Low Income Investment Fund",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-04",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6sz7yh",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Manager",
+   "organization": "Commerce Bank",
+   "location": "Clayton, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-04",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/a4pavf",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
@@ -721,6 +1645,104 @@
    "source": "ImpactAlpha",
    "regions": [
     "International"
+   ]
+  },
+  {
+   "title": "Portfolio Management Analyst",
+   "organization": "National Community Investment Fund",
+   "location": "Chicago, IL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-02",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4ziqsh",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Specialist / Senior Underwriting Associate",
+   "organization": "Founders First Capital Partners",
+   "location": "San Diego, CA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-02",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sqcc4d",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Officer",
+   "organization": "Veridian Credit Union",
+   "location": "Eden Prairie, MN",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-02",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/kfny4v",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Officer",
+   "organization": "Veridian Credit Union",
+   "location": "Des Moines, IA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-02",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sys7yw",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Executive Director of FirstLight Community Foundation and CDFI",
+   "organization": "FirstLight Federal Credit Union",
+   "location": "El Paso, TX",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-02",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/z72kk7",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Manager",
+   "organization": "Citizens Bank",
+   "location": "Coral Gables, FL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-11-01",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hp78s8",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Guaranteed Lending Representative",
+   "organization": "BankPlus",
+   "location": "Jackson, MS",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-31",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/t4gs88",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
    ]
   },
   {
@@ -1173,6 +2195,34 @@
    "regions": []
   },
   {
+   "title": "Talent Acquisition Coordinator",
+   "organization": "Pursuit",
+   "location": "Denver, CO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-29",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fctyx5",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Credit Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "Seattle, WA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-29",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/y3ejtt",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Manager, Impact Measurement and Management (IMM), Monitoring, Evaluation, Accountability, Research, and Learning (MEARL)",
    "organization": "Habitat for Humanity International",
    "location": "US Remote / London, UK",
@@ -1591,6 +2641,34 @@
    ]
   },
   {
+   "title": "Investment Banking Intern",
+   "organization": "Commerce Bank",
+   "location": "St. Louis, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-20",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/idw3q2",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Capital Market Operations Manager",
+   "organization": "Commerce Bank",
+   "location": "Kansas City, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-20",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/pz2a8e",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Impact Investments MBA Internship",
    "organization": "Spring Point Partners",
    "location": "Philadelphia, PA",
@@ -1811,477 +2889,339 @@
    ]
   },
   {
-   "title": "Climate Finance Analyst",
-   "organization": "responsAbility",
-   "location": "Mumbai",
+   "title": "Commercial Loan Officer II",
+   "organization": "Hope Enterprise Corporation",
+   "location": "New Orleans, LA",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
+   "type": "",
+   "posted": "2026-10-19",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/cmv9pu",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Lending Analyst",
+   "organization": "Opportunity Finance Network",
+   "location": "College Park, MD",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-19",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/9kmwmm",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Officer",
+   "organization": "Hope Credit Union",
+   "location": "New Orleans, LA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-18",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/dxct7y",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Loan Officer",
+   "organization": "Latino Community Credit Union",
+   "location": "Fayetteville, NC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-18",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/as8jty",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Vice President, Lending",
+   "organization": "Opportunity Finance Network",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-18",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/m6cvwq",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Education Lending Executive",
+   "organization": "Opportunity Finance Network",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-18",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/i3yt36",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Lending Analyst",
+   "organization": "Opportunity Finance Network",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-18",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6rvk54",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Portfolio Manager",
+   "organization": "United Bank, Inc.",
+   "location": "Charleston, WV",
+   "remote": false,
+   "salary": "",
+   "type": "",
    "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/climate-finance-analyst/",
-   "source": "ImpactAlpha",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/9crbcn",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
+    "US"
    ]
   },
   {
-   "title": "Venture Capital Investment Consultant",
-   "organization": "IDB Lab",
-   "location": "Lima, Santiago, Guatemala City, Panamá, Quito, San Salvador, Santo Domingo, La Paz, Montevideo, San Jose, Tegucigalpa, Asuncion",
+   "title": "Loan Underwriter",
+   "organization": "Community First Credit Union",
+   "location": "Neenah, WI",
    "remote": false,
    "salary": "",
-   "type": "Temporary",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/venture-capital-investment-consultant/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Managing Director, Office of the Chief Operating Officer",
-   "organization": "The Rockefeller Foundation",
-   "location": "New York, NY, US",
-   "remote": false,
-   "salary": "$250,000 - $290,000",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/managing-director-office-of-the-chief-operating-officer/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-15",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ddt6na",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Climate Analyst",
-   "organization": "Pulsora Inc",
-   "location": "United States",
-   "remote": true,
-   "salary": "$60,000 - $70,000",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/climate-analyst/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Investment Manager",
-   "organization": "PI Impact",
-   "location": "Rotterdam, South Holland, Netherlands",
+   "title": "Investment Director",
+   "organization": "Opportunity Finance Network",
+   "location": "Springfield, IL",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/senior-investment-manager-2/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-15",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/x6djts",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
+    "US"
    ]
   },
   {
-   "title": "Head of Investor Relations & Capital Formation",
-   "organization": "Illumen Capital",
-   "location": "Oakland, CA",
+   "title": "Commercial Lender",
+   "organization": "Opportunity Finance Network",
+   "location": "Lansing, MI",
    "remote": false,
-   "salary": "$225,000 - $250,000",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/head-of-investor-relations-capital-formation/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Advisor Sr, GCF Pipeline and Capture Lead",
-   "organization": "Catholic Relief Services",
-   "location": "Council Bluffs, IA",
-   "remote": true,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/advisor-sr-gcf-pipeline-and-capture-lead/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Executive Director",
-   "organization": "Confidential Family Philanthropy",
-   "location": "NY - New York metropolitan area",
-   "remote": false,
-   "salary": "$300,000 - $375,000",
-   "type": "Full Time",
-   "posted": "2026-10-16",
-   "url": "https://impactalpha.com/job/executive-director-10/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Managing Director",
-   "organization": "Equality Fund",
-   "location": "Remote",
-   "remote": true,
-   "salary": "",
-   "type": "Full Time",
+   "type": "",
    "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/managing-director-9/",
-   "source": "ImpactAlpha",
-   "regions": []
-  },
-  {
-   "title": "Impact Investment Professional, Family Office",
-   "organization": "Hedge Impact headhunting",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "$240,000 - $270,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/impact-investment-professional-family-office/",
-   "source": "ImpactAlpha",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/znvy8v",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "GFANZ Regional Director, APAC",
-   "organization": "Bloomberg",
-   "location": "Singapore",
+   "title": "Portfolio Manager",
+   "organization": "Opportunity Finance Network",
+   "location": "Philadelphia, PA",
    "remote": false,
    "salary": "",
-   "type": "Temporary",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/gfanz-regional-director-apac-12-month-contract/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Manager, Community and Nature Investments",
-   "organization": "National Grid",
-   "location": "Brooklyn, NY",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/manager-community-and-nature-investments/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zmg5nr",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Sustainability Analyst",
-   "organization": "Arva",
-   "location": "Houston, TX",
-   "remote": true,
-   "salary": "$90,000 - $100,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/sustainability-analyst-7/",
-   "source": "ImpactAlpha",
+   "title": "Community Development (CD) Fund Manager",
+   "organization": "Citizens Bank",
+   "location": "Boston, MA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6mkqkx",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Grants Manager",
-   "organization": "EarthPercent",
-   "location": "UK",
-   "remote": true,
-   "salary": "£45,000 - £50,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/grants-manager-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "PEC Consultant – Colabora Investment Professional",
-   "organization": "Inter-American Development Bank",
-   "location": "Washington, DC",
-   "remote": true,
+   "title": "Lender by Phone",
+   "organization": "Community First Credit Union",
+   "location": "Neenah, WI",
+   "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/pec-consultant-colabora-investment-professional/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-08",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/d2bk75",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Senior Vice President (SVP) of Finance",
-   "organization": "Los Angeles Cleantech Incubator (LACI)",
-   "location": "Los Angeles, CA",
+   "title": "Loan Officer",
+   "organization": "Housing Partnership Network, Inc.",
+   "location": "Tulsa, OK",
    "remote": false,
-   "salary": "$180,000 - $215,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/senior-vice-president-svp-of-finance/",
-   "source": "ImpactAlpha",
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-07",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ndve48",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Managing Director – Planetary A/S",
-   "organization": "Planetary Impact Ventures",
-   "location": "Humlebæk, Denmark",
+   "title": "Director of Business Lending",
+   "organization": "Impact Seven, Inc.",
+   "location": "Milwaukee, WI",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/managing-director-planetary-a-s/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "President & CEO",
-   "organization": "Robert Sterling Clark Foundation",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "$300,000 - $325,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/president-ceo-3/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/336bjg",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Senior Advisor Multifamily Climate Solutions",
-   "organization": "City of New York, Department of Environmental Protection",
-   "location": "Manhattan, New York",
+   "title": "Asset Manager",
+   "organization": "Opportunity Finance Network",
+   "location": "",
    "remote": false,
-   "salary": "$110,000",
-   "type": "Full Time",
-   "posted": "2026-10-14",
-   "url": "https://impactalpha.com/job/senior-advisor-multifamily-climate-solutions/",
-   "source": "ImpactAlpha",
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/tzjkm2",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Chief Executive Officer",
-   "organization": "Convergence",
-   "location": "Flexible",
-   "remote": true,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/chief-executive-officer-6/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Analyst, People",
-   "organization": "Jordan Park Group",
-   "location": "San Francisco, CA",
+   "title": "Commercial Loan Specialist",
+   "organization": "Guaranty Bank",
+   "location": "Springfield, MO",
    "remote": false,
-   "salary": "$80,000 - $100,000",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/senior-analyst-people/",
-   "source": "ImpactAlpha",
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-06",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2dh7f4",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Chief Executive Officer",
-   "organization": "Halcyon",
-   "location": "Washington DC",
-   "remote": true,
-   "salary": "$200,000 - $250,000",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/chief-executive-officer-5/",
-   "source": "ImpactAlpha",
+   "title": "Loan Officer Assistant",
+   "organization": "United Bank Corporation",
+   "location": "Covington, GA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-10-04",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/q7j83u",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Business Development Manager",
-   "organization": "Village Capital",
-   "location": "Remote - US/Kenya/UK",
-   "remote": true,
+   "title": "Portfolio Compliance Associate",
+   "organization": "Accion Opportunity Fund",
+   "location": "",
+   "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/business-development-manager-2/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-01",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/j25cba",
+   "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Managing Director, Impact Ventures & Business Instruments",
-   "organization": "Impact Fund Denmark",
-   "location": "Copenhagen, Denmark",
+   "title": "Loan Officer",
+   "organization": "Opportunity Finance Network",
+   "location": "",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/managing-director-impact-ventures-business-instruments/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-01",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2fqfy2",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
+    "US"
    ]
   },
   {
-   "title": "Director of Americas",
-   "organization": "Toniic",
-   "location": "North America",
-   "remote": true,
-   "salary": "$100,000 - $125,000",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/director-of-americas/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Investment Associate, DRE",
-   "organization": "Africa50",
-   "location": "Casablanca, Morocco",
+   "title": "Portfolio and Compliance Associate",
+   "organization": "Opportunity Finance Network",
+   "location": "San Jose, CA",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/investment-associate-dre/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-10-01",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/adg9yb",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
+    "US"
    ]
   },
   {
-   "title": "Senior Advisor, Investment Climate and Private Sector Development",
-   "organization": "Tony Blair Institute for Global Change",
-   "location": "Freetown, Sierra Leone",
+   "title": "Commercial Lending Associate",
+   "organization": "Self-Help Federal Credit Union",
+   "location": "Durham, NC",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/senior-advisor-investment-climate-and-private-sector-development-2/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-09-30",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zu2n5x",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
+    "US"
    ]
   },
   {
-   "title": "Monitoring, Evaluation and Impact Senior Officer",
-   "organization": "UNOPS (United Nations Office for Project Services)",
-   "location": "Nairobi",
+   "title": "Commercial Loan Assistant",
+   "organization": "Orlando Credit Union",
+   "location": "Casselberry, FL",
    "remote": false,
    "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/monitoring-evaluation-and-impact-senior-officer/",
-   "source": "ImpactAlpha",
+   "type": "",
+   "posted": "2026-09-30",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/wgknt7",
+   "source": "CDFI Job Bank",
    "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Impact Evidence & Insights Lead",
-   "organization": "Africa Practice",
-   "location": "Johannesburg/Cape Town",
-   "remote": true,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/impact-evidence-insights-lead/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Investment Officer for Financial Institutions Debt Financing",
-   "organization": "responsAbility Investments AG",
-   "location": "Cape Town",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/senior-investment-officer-for-financial-institutions-debt-financing/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Senior Investment Officer in Climate Finance, Sub-Saharan Africa",
-   "organization": "responsAbility Investments AG",
-   "location": "Cape Town",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/senior-investment-officer-in-climate-finance-sub-saharan-africa-2/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Financial Modelling & Structuring Specialist",
-   "organization": "Development Bank of Southern Africa (DBSA)",
-   "location": "Midrand, Gauteng",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/financial-modelling-structuring-specialist/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Lead Infrastructure Finance (Transacting)",
-   "organization": "Development Bank of Southern Africa (DBSA)",
-   "location": "Midrand, Gauteng, South Africa",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/lead-infrastructure-finance-transacting/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
-   ]
-  },
-  {
-   "title": "Fund Administrator",
-   "organization": "ACG Growth Partners™",
-   "location": "Johannesburg, Gauteng",
-   "remote": false,
-   "salary": "",
-   "type": "Full Time",
-   "posted": "2026-10-12",
-   "url": "https://impactalpha.com/job/fund-administrator/",
-   "source": "ImpactAlpha",
-   "regions": [
-    "International"
+    "US"
    ]
   },
   {
@@ -2601,34 +3541,6 @@
    ]
   },
   {
-   "title": "Loan Officer",
-   "organization": "Neighbors Federal Credit Union",
-   "location": "Baton Rouge, LA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-26",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/tgdy2y",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Lender",
-   "organization": "United Bank Corporation",
-   "location": "Jackson, GA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-26",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7rwk7y",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Community Development and Partnership Associate",
    "organization": "Pursuit",
    "location": "New York, NY",
@@ -2678,7 +3590,49 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-24",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2dzkus",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hz27fg",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Community Development & Recruitment Associate",
+   "organization": "Pursuit",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-24",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/txkp8d",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Community Development & Partnership Associate",
+   "organization": "Pursuit",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-24",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/bk6gng",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Lender",
+   "organization": "United Bank Corporation",
+   "location": "Jackson, GA",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-24",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/x9snek",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -2692,7 +3646,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sq6s6z",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vg4nmw",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3341,20 +4295,6 @@
    ]
   },
   {
-   "title": "Fraud Investigator",
-   "organization": "Truliant Federal Credit Union",
-   "location": "Winston-Salem, NC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-22",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8c6p26",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Capital Access Manager",
    "organization": "Opportunity Finance Network",
    "location": "Norfolk, VA",
@@ -3362,7 +4302,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-21",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sf8qe3",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zu8zkx",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3376,77 +4316,35 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-21",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/t8n4gd",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5qywt3",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Lending Relationship Specialist",
-   "organization": "BankPlus",
-   "location": "Tupelo, MS",
+   "title": "Real Estate Acquisition Representative",
+   "organization": "Homewise Inc.",
+   "location": "",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-09-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mb7dbu",
+   "posted": "2026-09-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8z6jj4",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Junior Portfolio Manager",
-   "organization": "Fidelity Bank",
-   "location": "Charlotte, NC",
+   "title": "Lending Assistant",
+   "organization": "United Bank, Inc.",
+   "location": "Raleigh, NC",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-09-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4hc4j2",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "SBA Underwriter",
-   "organization": "Merchants & Marine Bancorp, Inc.",
-   "location": "Baton Rouge, LA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/equt8m",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Warehouse Lending Specialist",
-   "organization": "First Bank",
-   "location": "Plano, TX",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-19",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/278nrr",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Loan Administrator",
-   "organization": "Travis Credit Union",
-   "location": "Vacaville, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-18",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zkd56d",
+   "posted": "2026-09-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/43xf8u",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3466,34 +4364,6 @@
    "regions": []
   },
   {
-   "title": "Lending Assistant",
-   "organization": "United Bank, Inc.",
-   "location": "Raleigh, NC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-16",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mxkw5f",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Loan Assistant",
-   "organization": "First Bank",
-   "location": "Escanaba, MI",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-16",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/u5m2hh",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Director of Community Capital Investments",
    "organization": "Local Initiatives Support Corporation",
    "location": "New York, NY",
@@ -3501,35 +4371,35 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-15",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3qerzp",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/dxf6vu",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Real Estate and Community Development Officer",
-   "organization": "Opportunity Finance Network",
+   "title": "Commercial Loan Administration Officer",
+   "organization": "Network for Oregon Affordable Housing",
    "location": "Portland, OR",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-09-15",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/69pye5",
+   "posted": "2026-09-14",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/39zd2v",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Dealer Relations Representative",
-   "organization": "Pelican State Credit Union",
-   "location": "Baton Rouge, LA",
+   "title": "Portfolio Manager",
+   "organization": "Gateway Bank",
+   "location": "Mesa, AZ",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-09-15",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/58f32q",
+   "posted": "2026-09-14",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8p7z3f",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3550,20 +4420,6 @@
    ]
   },
   {
-   "title": "Loan Officer",
-   "organization": "BankPlus",
-   "location": "Gulfport, MS",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-12",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4f7a6g",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Commercial Underwriter",
    "organization": "First Bank",
    "location": "Newport Beach, CA",
@@ -3571,21 +4427,49 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-11",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6x2gs8",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8yiada",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Investment Program Coordinator",
-   "organization": "Y-12 Federal Credit Union",
-   "location": "Oak Ridge, TN",
+   "title": "Community Development Associate",
+   "organization": "Grameen America",
+   "location": "Birmingham, AL",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-10",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3g5shp",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Community Development Associate",
+   "organization": "Grameen America",
+   "location": "Memphis, TN",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pg3ft",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vz9a26",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Director of Community Capital Investments",
+   "organization": "Opportunity Finance Network",
+   "location": "New York, NY",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2qm2mk",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3606,6 +4490,20 @@
    ]
   },
   {
+   "title": "Residential Lender",
+   "organization": "Guaranty Bank",
+   "location": "Springfield, MO",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-09-09",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/seiu7v",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
    "title": "Business Lending Officer",
    "organization": "Five Star Credit Union",
    "location": "Dothan, AL",
@@ -3620,70 +4518,14 @@
    ]
   },
   {
-   "title": "Director of Community Capital Investments",
-   "organization": "Opportunity Finance Network",
-   "location": "New York, NY",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ptfi9w",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Cincinnati, OH",
+   "organization": "Small Business Assistance Corporation",
+   "location": "Savannah, GA",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zjc4da",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "VyStar Credit Union",
-   "location": "Jacksonville, FL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/kqh92i",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Commercial Lending and Operations Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Stamford, CT",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-08",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/n3ka8t",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Vice President of Commercial Lending",
-   "organization": "Royal Credit Union Inc.",
-   "location": "Minneapolis, MN",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-03",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/swzq8y",
+   "posted": "2026-09-07",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/w8cau2",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3697,21 +4539,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-09-01",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hazm45",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Fund Manager",
-   "organization": "Local Initiatives Support Corporation",
-   "location": "",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-09-01",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4bjq7r",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/s8y8ms",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3724,36 +4552,8 @@
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-08-31",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e77n43",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "BankPlus",
-   "location": "Covington, LA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-29",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/mx5itk",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer Certification and Quality Assurance Specialist",
-   "organization": "Latino Community Credit Union",
-   "location": "Durham, NC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-28",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fdr77p",
+   "posted": "2026-09-01",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/37wj2u",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3767,21 +4567,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-08-27",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vvcvh6",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Underwriter",
-   "organization": "LiftFund",
-   "location": "San Antonio, TX",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-25",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fbqq6b",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/f6tv75",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3802,118 +4588,6 @@
    ]
   },
   {
-   "title": "Director of Lending Operations",
-   "organization": "Central Bank of Kansas City",
-   "location": "Kansas City, MO",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/79ixh7",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Lending Coordinator",
-   "organization": "Central Bank of Kansas City",
-   "location": "Kansas City, MO",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ui9k4b",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Springfield, MA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/56tepf",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Lending Assistant",
-   "organization": "Fidelity Bank",
-   "location": "Oklahoma City, OK",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/39qavf",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "Reinvestment Fund",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-21",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ntg9uk",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Lending Officer",
-   "organization": "Magnolia State Bank",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-21",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xyf7fn",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Treasury Analyst",
-   "organization": "Pursuit",
-   "location": "Denver, CO",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/fbmc3v",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Credit Underwriter",
-   "organization": "Orange County's Credit Union",
-   "location": "Orange, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-19",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6pi2et",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Senior Underwriter",
    "organization": "Lendistry",
    "location": "Los Angeles, CA",
@@ -3928,14 +4602,42 @@
    ]
   },
   {
-   "title": "Director of Lending Analytics",
-   "organization": "Kitsap Credit Union",
-   "location": "Bremerton, WA",
+   "title": "Investment Coordinator",
+   "organization": "Community First Credit Union",
+   "location": "Appleton, WI",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-17",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/zm8tu4",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Commercial Loan Officer",
+   "organization": "Veridian Credit Union",
+   "location": "Waterloo, IA",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-08-13",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/m6c4gx",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/sj85na",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Talent Acquisition Partner",
+   "organization": "United Bank, Inc.",
+   "location": "Washington, DC",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-08-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/bishe5",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3949,7 +4651,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-08-12",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/gq8nf5",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4uz8mt",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -3963,105 +4665,49 @@
    "salary": "",
    "type": "",
    "posted": "2026-08-12",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/q563zi",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/etd4hg",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Lending Associate",
+   "title": "Asset Management Director",
    "organization": "Opportunity Finance Network",
-   "location": "Atlantic, IA",
+   "location": "Washington, DC",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-08-11",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/bursv3",
+   "posted": "2026-08-12",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/d6926m",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Director of Asset Management",
-   "organization": "Opportunity Finance Network",
-   "location": "Cambridge, MA",
+   "title": "Real Estate Acquisitions Specialist — Inbound Leads",
+   "organization": "Homewise Inc.",
+   "location": "",
    "remote": false,
    "salary": "",
    "type": "",
    "posted": "2026-08-10",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7ijyye",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/kj3hu3",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
    ]
   },
   {
-   "title": "Portfolio Manager",
-   "organization": "United Bank, Inc.",
-   "location": "Myrtle Beach, SC",
+   "title": "Loan Underwriter",
+   "organization": "OneUnited Bank",
+   "location": "Miami, FL",
    "remote": false,
    "salary": "",
    "type": "",
-   "posted": "2026-08-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2xjt28",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director of Treasury and Finance",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e4y46v",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Talent Acquisition Partner",
-   "organization": "United Bank, Inc.",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8fh8kn",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Loan Portfolio Manager",
-   "organization": "Central Bank of Kansas City",
-   "location": "Kansas City, MO",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-05",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/surd9m",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Investment Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Baltimore, MD",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-05",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/2vgaw3",
+   "posted": "2026-08-04",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7vi4p8",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4082,20 +4728,6 @@
    ]
   },
   {
-   "title": "Chief Lending Officer",
-   "organization": "Dade County Federal Credit Union",
-   "location": "Miami, FL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-08-04",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/6hn57y",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Chief Credit Officer",
    "organization": "Low Income Investment Fund",
    "location": "New York, NY",
@@ -4110,34 +4742,6 @@
    ]
   },
   {
-   "title": "Investor Relations Manager",
-   "organization": "New Hampshire Community Loan Fund Inc.",
-   "location": "Concord, NH",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-29",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/hn4pqy",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Credit Officer",
-   "organization": "City First Enterprises",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-28",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/jkut5p",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Credit Officer",
    "organization": "Local Initiatives Support Corporation",
    "location": "New York, NY",
@@ -4145,7 +4749,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-27",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/pr2dwv",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ba5g2f",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4159,7 +4763,21 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-27",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/c7s4qh",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/f5byux",
+   "source": "CDFI Job Bank",
+   "regions": [
+    "US"
+   ]
+  },
+  {
+   "title": "Investor Relations Manager",
+   "organization": "Opportunity Finance Network",
+   "location": "Concord, NH",
+   "remote": false,
+   "salary": "",
+   "type": "",
+   "posted": "2026-07-26",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5gsse3",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4173,7 +4791,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-22",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ber6bq",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/xm8ctp",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4187,7 +4805,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-22",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/k3cq8p",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4eqjvy",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4208,20 +4826,6 @@
    ]
   },
   {
-   "title": "Director of Investment",
-   "organization": "Opportunity Finance Network",
-   "location": "Phoenix, AZ",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-21",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/79hitc",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
    "title": "Chief Investor Relations Officer",
    "organization": "Opportunity Finance Network",
    "location": "Washington, DC",
@@ -4229,7 +4833,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/tuzc3j",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4s3wn4",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
@@ -4243,343 +4847,7 @@
    "salary": "",
    "type": "",
    "posted": "2026-07-20",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/w8n9c8",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Director, Loan Origination",
-   "organization": "Opportunity Finance Network",
-   "location": "NE",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-19",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/wxsa5k",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Commerce Bank",
-   "location": "Fort Myers, FL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-19",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/nz837g",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Asset Manager",
-   "organization": "Lendistry",
-   "location": "Tustin, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-14",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ja6wp2",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Loan Officer",
-   "organization": "Homewise Inc.",
-   "location": "Albuquerque, NM",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-13",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/aqx6sr",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Lender",
-   "organization": "Y-12 Federal Credit Union",
-   "location": "Oak Ridge, TN",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-13",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/45x6xc",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Silver Spring, MD",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-12",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/pmu683",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "Access Plus Capital",
-   "location": "Sacramento, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-10",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/4u98bv",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Community Lender",
-   "organization": "Opportunity Finance Network",
-   "location": "Chicago, IL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/e28iku",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "Access Plus Capital",
-   "location": "Fresno, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/99icvd",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/gpsg27",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Commercial Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Albuquerque, NM",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-07",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/884h6e",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Lending and Compliance Associate",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-07-01",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/h6adkr",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Fidelity Bank",
-   "location": "Wichita, KS",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-30",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/afzn73",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director of Asset Management",
-   "organization": "Opportunity Finance Network",
-   "location": "Atlanta, GA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-28",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/36uidn",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Washington, DC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-24",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/7ajnap",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Director of Investments",
-   "organization": "Opportunity Finance Network",
-   "location": "",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-23",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/ziz43w",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "First Bank",
-   "location": "Carmi, IL",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-22",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/drht53",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Director of Lending",
-   "organization": "Opportunity Finance Network",
-   "location": "Richmond, VA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-14",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/3dm5ns",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Lending Specialist",
-   "organization": "Community First Credit Union",
-   "location": "Neenah, WI",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-14",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/8xg5jb",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Chief Lending Officer",
-   "organization": "Opportunity Finance Network",
-   "location": "Oakland, CA",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-14",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/dgfbv7",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Senior Vice President of Investor Relations",
-   "organization": "Opportunity Finance Network",
-   "location": "AR",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-10",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vm8d8b",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Portfolio Manager",
-   "organization": "Opportunity Finance Network",
-   "location": "Silver Spring, MD",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-10",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/vgg7px",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Loan Portfolio Manager",
-   "organization": "Opportunity Finance Network",
-   "location": "St. Paul, MN",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-09",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/crwfz7",
-   "source": "CDFI Job Bank",
-   "regions": [
-    "US"
-   ]
-  },
-  {
-   "title": "Underwriting Director",
-   "organization": "Opportunity Finance Network",
-   "location": "Raleigh, NC",
-   "remote": false,
-   "salary": "",
-   "type": "",
-   "posted": "2026-06-03",
-   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/5fq6bv",
+   "url": "https://jobseeker.cdfijobs.org/careermeetspurpose/#/job/cwh5ed",
    "source": "CDFI Job Bank",
    "regions": [
     "US"
